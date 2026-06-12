@@ -1,0 +1,18 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539000,11,,5529,78547,A. Johnston,,Card,Yellow Card
+1539000,21,,1113,77037,J. Lukic,1442.0,Goal,Normal Goal
+1539000,45,,1113,46930,E. Demirovic,,Card,Yellow Card
+1539000,45,1.0,1113,77037,J. Lukic,,Card,Yellow Card
+1539000,53,,5529,327738,L. De Fougerolles,,Card,Yellow Card
+1539000,61,,5529,44798,L. Millar,50826.0,subst,Substitution 1
+1539000,61,,5529,8489,J. David,313353.0,subst,Substitution 2
+1539000,61,,5529,51016,T. Buchanan,362145.0,subst,Substitution 3
+1539000,62,,1113,77037,J. Lukic,314377.0,subst,Substitution 1
+1539000,62,,1113,162222,I. Basic,70514.0,subst,Substitution 2
+1539000,74,,1113,329409,E. Bajraktarevic,1324.0,subst,Substitution 3
+1539000,74,,1113,322101,A. Memic,395559.0,subst,Substitution 4
+1539000,76,,5529,351587,T. Oluwaseyi,2001.0,subst,Substitution 4
+1539000,78,,5529,2001,C. Larin,313353.0,Goal,Normal Goal
+1539000,84,,1113,1442,S. Kolasinac,25129.0,subst,Substitution 5
+1539000,90,1.0,5529,35570,S. Eustaquio,50817.0,subst,Substitution 5
+1539000,90,3.0,1113,1741,N. Katic,,Card,Yellow Card

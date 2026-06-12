@@ -1,0 +1,71 @@
+fixture_id,captured_at,home_team_id,home_team,away_team_id,away_team,pct_home,pct_draw,pct_away,winner_id,advice,home_form,away_form
+1489370,2026-06-12T15:25:08+00:00,2384,USA,2380,Paraguay,50,50,0,2384.0,Double chance : USA or draw,0%,0%
+1489371,2026-06-12T15:25:09+00:00,6,Brazil,31,Morocco,0,50,50,31.0,Double chance : draw or Morocco,0%,0%
+1489372,2026-06-12T15:25:09+00:00,2386,Haiti,1108,Scotland,33,33,33,,No predictions available,0%,0%
+1489373,2026-06-12T15:25:08+00:00,1569,Qatar,15,Switzerland,50,50,0,1569.0,Double chance : Qatar or draw,0%,0%
+1489374,2026-06-12T15:25:09+00:00,25,Germany,5530,Curaçao,33,33,33,,No predictions available,0%,0%
+1489375,2026-06-12T15:25:09+00:00,1501,Ivory Coast,2382,Ecuador,33,33,33,,No predictions available,0%,0%
+1489376,2026-06-12T15:25:09+00:00,1118,Netherlands,12,Japan,50,50,0,1118.0,Double chance : Netherlands or draw,0%,0%
+1489377,2026-06-12T15:25:10+00:00,1,Belgium,32,Egypt,45,45,10,1.0,Double chance : Belgium or draw,0%,0%
+1489378,2026-06-12T15:25:10+00:00,22,Iran,4673,New Zealand,33,33,33,,No predictions available,0%,0%
+1489379,2026-06-12T15:25:10+00:00,23,Saudi Arabia,7,Uruguay,0,50,50,7.0,Double chance : draw or Uruguay,0%,0%
+1489380,2026-06-12T15:25:10+00:00,9,Spain,1533,Cape Verde Islands,33,33,33,,No predictions available,0%,0%
+1489381,2026-06-12T15:25:11+00:00,26,Argentina,1532,Algeria,33,33,33,,No predictions available,0%,0%
+1489382,2026-06-12T15:25:11+00:00,775,Austria,1548,Jordan,33,33,33,,No predictions available,0%,0%
+1489383,2026-06-12T15:25:11+00:00,2,France,13,Senegal,33,33,33,,No predictions available,0%,0%
+1489384,2026-06-12T15:25:12+00:00,10,England,3,Croatia,45,45,10,10.0,Double chance : England or draw,0%,0%
+1489385,2026-06-12T15:25:12+00:00,1504,Ghana,11,Panama,33,33,33,,No predictions available,0%,0%
+1489386,2026-06-12T15:25:12+00:00,1568,Uzbekistan,8,Colombia,33,33,33,,No predictions available,0%,0%
+1489387,2026-06-12T15:25:13+00:00,5529,Canada,1569,Qatar,50,50,0,5529.0,Double chance : Canada or draw,0%,0%
+1489388,2026-06-12T15:25:13+00:00,16,Mexico,17,South Korea,45,45,10,16.0,Double chance : Mexico or draw,100%,100%
+1489389,2026-06-12T15:25:13+00:00,6,Brazil,2386,Haiti,50,50,0,6.0,Double chance : Brazil or draw,0%,0%
+1489390,2026-06-12T15:25:13+00:00,1108,Scotland,31,Morocco,33,33,33,,No predictions available,0%,0%
+1489391,2026-06-12T15:25:13+00:00,2384,USA,20,Australia,50,50,0,2384.0,Double chance : USA or draw,0%,0%
+1489392,2026-06-12T15:25:14+00:00,2382,Ecuador,5530,Curaçao,33,33,33,,No predictions available,0%,0%
+1489393,2026-06-12T15:25:14+00:00,25,Germany,1501,Ivory Coast,33,33,33,,No predictions available,0%,0%
+1489394,2026-06-12T15:25:14+00:00,28,Tunisia,12,Japan,45,45,10,28.0,Double chance : Tunisia or draw,0%,0%
+1489395,2026-06-12T15:25:15+00:00,1,Belgium,22,Iran,33,33,33,,No predictions available,0%,0%
+1489396,2026-06-12T15:25:15+00:00,4673,New Zealand,32,Egypt,0,50,50,32.0,Double chance : draw or Egypt,0%,0%
+1489397,2026-06-12T15:25:15+00:00,9,Spain,23,Saudi Arabia,33,33,33,,No predictions available,0%,0%
+1489398,2026-06-12T15:25:15+00:00,7,Uruguay,1533,Cape Verde Islands,33,33,33,,No predictions available,0%,0%
+1489399,2026-06-12T15:25:15+00:00,26,Argentina,775,Austria,33,33,33,,No predictions available,0%,0%
+1489400,2026-06-12T15:25:16+00:00,1548,Jordan,1532,Algeria,33,33,33,,No predictions available,0%,0%
+1489401,2026-06-12T15:25:16+00:00,1090,Norway,13,Senegal,33,33,33,,No predictions available,0%,0%
+1489402,2026-06-12T15:25:16+00:00,10,England,1504,Ghana,33,33,33,,No predictions available,0%,0%
+1489403,2026-06-12T15:25:17+00:00,11,Panama,3,Croatia,33,33,33,,No predictions available,0%,0%
+1489404,2026-06-12T15:25:16+00:00,27,Portugal,1568,Uzbekistan,33,33,33,,No predictions available,0%,0%
+1489405,2026-06-12T15:25:17+00:00,31,Morocco,2386,Haiti,33,33,33,,No predictions available,0%,0%
+1489406,2026-06-12T15:25:18+00:00,1108,Scotland,6,Brazil,33,33,33,,No predictions available,0%,0%
+1489407,2026-06-12T15:25:18+00:00,1531,South Africa,17,South Korea,0,50,50,17.0,Winner : South Korea,0%,100%
+1489408,2026-06-12T15:25:17+00:00,15,Switzerland,5529,Canada,33,33,33,,No predictions available,0%,0%
+1489409,2026-06-12T15:25:18+00:00,5530,Curaçao,1501,Ivory Coast,33,33,33,,No predictions available,0%,0%
+1489410,2026-06-12T15:25:18+00:00,2382,Ecuador,25,Germany,33,33,33,,No predictions available,0%,0%
+1489411,2026-06-12T15:25:19+00:00,2380,Paraguay,20,Australia,33,33,33,,No predictions available,0%,0%
+1489412,2026-06-12T15:25:19+00:00,28,Tunisia,1118,Netherlands,33,33,33,,No predictions available,0%,0%
+1489413,2026-06-12T15:25:20+00:00,1533,Cape Verde Islands,23,Saudi Arabia,33,33,33,,No predictions available,0%,0%
+1489414,2026-06-12T15:25:20+00:00,32,Egypt,22,Iran,33,33,33,,No predictions available,0%,0%
+1489415,2026-06-12T15:25:20+00:00,4673,New Zealand,1,Belgium,33,33,33,,No predictions available,0%,0%
+1489416,2026-06-12T15:25:20+00:00,1090,Norway,2,France,33,33,33,,No predictions available,0%,0%
+1489417,2026-06-12T15:25:20+00:00,7,Uruguay,9,Spain,0,50,50,9.0,Double chance : draw or Spain,0%,0%
+1489418,2026-06-12T15:25:21+00:00,1532,Algeria,775,Austria,33,33,33,,No predictions available,0%,0%
+1489419,2026-06-12T15:25:21+00:00,8,Colombia,27,Portugal,33,33,33,,No predictions available,0%,0%
+1489420,2026-06-12T15:25:21+00:00,3,Croatia,1504,Ghana,33,33,33,,No predictions available,0%,0%
+1489421,2026-06-12T15:25:22+00:00,1548,Jordan,26,Argentina,33,33,33,,No predictions available,0%,0%
+1489422,2026-06-12T15:25:21+00:00,11,Panama,10,England,0,50,50,10.0,Double chance : draw or England,0%,0%
+1539000,2026-06-12T15:25:08+00:00,5529,Canada,1113,Bosnia & Herzegovina,33,33,33,,No predictions available,0%,0%
+1539001,2026-06-12T15:25:09+00:00,20,Australia,777,Türkiye,33,33,33,,No predictions available,0%,0%
+1539002,2026-06-12T15:25:10+00:00,5,Sweden,28,Tunisia,33,33,33,,No predictions available,0%,0%
+1539003,2026-06-12T15:25:11+00:00,27,Portugal,1508,Congo DR,33,33,33,,No predictions available,0%,0%
+1539004,2026-06-12T15:25:12+00:00,770,Czech Republic,1531,South Africa,45,45,10,770.0,Double chance : Czech Republic or draw,0%,0%
+1539005,2026-06-12T15:25:12+00:00,15,Switzerland,1113,Bosnia & Herzegovina,33,33,33,,No predictions available,0%,0%
+1539006,2026-06-12T15:25:14+00:00,777,Türkiye,2380,Paraguay,33,33,33,,No predictions available,0%,0%
+1539007,2026-06-12T15:25:14+00:00,1118,Netherlands,5,Sweden,50,50,0,1118.0,Double chance : Netherlands or draw,0%,0%
+1539008,2026-06-12T15:25:17+00:00,8,Colombia,1508,Congo DR,33,33,33,,No predictions available,0%,0%
+1539009,2026-06-12T15:25:17+00:00,1113,Bosnia & Herzegovina,1569,Qatar,33,33,33,,No predictions available,0%,0%
+1539010,2026-06-12T15:25:18+00:00,770,Czech Republic,16,Mexico,10,45,45,16.0,Double chance : draw or Mexico,0%,100%
+1539011,2026-06-12T15:25:19+00:00,12,Japan,5,Sweden,33,33,33,,No predictions available,0%,0%
+1539012,2026-06-12T15:25:19+00:00,777,Türkiye,2384,USA,50,50,0,777.0,Double chance : Türkiye or draw,0%,0%
+1539013,2026-06-12T15:25:21+00:00,1508,Congo DR,1568,Uzbekistan,33,33,33,,No predictions available,0%,0%
+1539016,2026-06-12T15:25:11+00:00,1567,Iraq,1090,Norway,33,33,33,,No predictions available,0%,0%
+1539017,2026-06-12T15:25:16+00:00,2,France,1567,Iraq,33,33,33,,No predictions available,0%,0%
+1539074,2026-06-12T15:25:19+00:00,13,Senegal,1567,Iraq,33,33,33,,No predictions available,0%,0%
