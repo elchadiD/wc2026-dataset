@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1538999,59,,770,66407,L. Krejci,1231.0,Goal,Normal Goal
+1538999,62,,17,2906,Lee Jae-Sung,24888.0,subst,Substitution 1
+1538999,64,,770,66387,P. Sulc,66019.0,subst,Substitution 1
+1538999,64,,770,794,P. Schick,818.0,subst,Substitution 2
+1538999,64,,770,66353,L. Provod,241.0,subst,Substitution 3
+1538999,67,,17,2901,Hwang In-Beom,927.0,Goal,Normal Goal
+1538999,69,,17,237220,Lee Tae-Seok,237050.0,subst,Substitution 2
+1538999,69,,17,186,Son Heung-Min,34710.0,subst,Substitution 3
+1538999,77,,770,1243,T. Soucek,,Var,Goal Disallowed - offside
+1538999,80,,17,34710,Oh Hyeon-Gyu,2901.0,Goal,Normal Goal
+1538999,84,,17,2901,Hwang In-Beom,34168.0,subst,Substitution 4
+1538999,84,,17,2909,Paik Seung-Ho,99211.0,subst,Substitution 5
+1538999,84,,770,386837,A. Sojka,66275.0,subst,Substitution 4
+1538999,90,6.0,17,304951,Lee Gi-Hyuk,,Card,Yellow Card
