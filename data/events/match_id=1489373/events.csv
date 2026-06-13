@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489373,16,,1569,42207,M. Abunada,,Card,Yellow Card
+1489373,17,,15,421,B. Embolo,,Goal,Penalty
+1489373,23,,1569,200981,J. Gaber,,Card,Yellow Card
+1489373,42,,15,2810,D. Zakaria,,Card,Yellow Card
+1489373,60,,1569,542548,A. Al Oui,2539.0,subst,Substitution 1
+1489373,60,,1569,200981,J. Gaber,2537.0,subst,Substitution 2
+1489373,60,,1569,542541,Y. Abdurisag,2542.0,subst,Substitution 3
+1489373,65,,15,48648,D. Ndoye,406244.0,subst,Substitution 1
+1489373,65,,15,951,M. Aebischer,163032.0,subst,Substitution 2
+1489373,79,,1569,2535,A. O. Madibo,283174.0,subst,Substitution 4
+1489373,79,,15,48471,R. Vargas,123469.0,subst,Substitution 3
+1489373,88,,1569,42075,Edmilson Junior,2545.0,subst,Substitution 5
+1489373,89,,15,1631,R. Rodriguez,48489.0,subst,Substitution 4
+1489373,89,,15,2807,R. Freuler,264705.0,subst,Substitution 5
+1489373,90,4.0,1569,2532,B. Khoukhi,175439.0,Goal,Normal Goal
