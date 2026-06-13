@@ -1,0 +1,22 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489370,7,,2384,195107,D. Bobadilla,,Goal,Own Goal
+1489370,10,,2380,195992,J. Caceres,,Card,Yellow Card
+1489370,28,,2384,138835,F. Balogun,,Var,Goal Disallowed - offside
+1489370,31,,2384,138835,F. Balogun,17.0,Goal,Normal Goal
+1489370,45,5.0,2384,138835,F. Balogun,162037.0,Goal,Normal Goal
+1489370,46,,2380,195107,D. Bobadilla,106485.0,subst,Substitution 1
+1489370,46,,2384,17,C. Pulisic,201713.0,subst,Substitution 1
+1489370,53,,2380,2507,M. Almiron,,Card,Yellow Card
+1489370,59,,2384,1150,T. Adams,,Card,Yellow Card
+1489370,62,,2380,2522,A. Sanabria,95460.0,subst,Substitution 2
+1489370,72,,2384,38735,S. Dest,1138.0,subst,Substitution 2
+1489370,72,,2384,138835,F. Balogun,73868.0,subst,Substitution 3
+1489370,73,,2380,106485,Mauricio,70747.0,Goal,Normal Goal
+1489370,79,,2380,278370,D. Gomez,,Card,Yellow Card
+1489370,79,,2380,2507,M. Almiron,196298.0,subst,Substitution 3
+1489370,79,,2380,195992,J. Caceres,35808.0,subst,Substitution 4
+1489370,80,,2380,278370,D. Gomez,2514.0,subst,Substitution 5
+1489370,82,,2384,162037,M. Tillman,161921.0,subst,Substitution 4
+1489370,88,,2380,95460,A. Arce,,Card,Yellow Card
+1489370,90,3.0,2380,2499,J. Alonso,,Card,Yellow Card
+1489370,90,8.0,2384,161921,G. Reyna,355994.0,Goal,Normal Goal
