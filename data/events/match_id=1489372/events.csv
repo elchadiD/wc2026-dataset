@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489372,28,,1108,19191,J. McGinn,,Goal,Normal Goal
+1489372,39,,2386,20665,J. Bellegarde,,Card,Yellow Card
+1489372,46,,1108,44871,A. Hickey,,Card,Yellow Card
+1489372,61,,2386,128766,L. Deedson,174915.0,subst,Substitution 1
+1489372,75,,1108,343576,B. Gannon-Doak,1125.0,subst,Substitution 1
+1489372,75,,1108,44871,A. Hickey,138417.0,subst,Substitution 2
+1489372,75,,1108,19524,C. Adams,45307.0,subst,Substitution 3
+1489372,76,,2386,84087,W. Isidor,21613.0,subst,Substitution 2
+1489372,83,,1108,19191,J. McGinn,433272.0,subst,Substitution 4
+1489372,83,,1108,45175,L. Shankland,19077.0,subst,Substitution 5
+1489372,85,,2386,162733,R. Providence,48535.0,subst,Substitution 3
+1489372,90,1.0,1108,433272,F. Curtis,,Card,Yellow Card
+1489372,90,5.0,1108,19077,K. McLean,,Card,Yellow Card
