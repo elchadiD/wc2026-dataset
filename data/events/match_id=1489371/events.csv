@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489371,21,,31,161897,I. Saibari,744.0,Goal,Normal Goal
+1489371,32,,6,762,Vinicius Junior,10135.0,Goal,Normal Goal
+1489371,37,,6,747,Casemiro,,Card,Yellow Card
+1489371,43,,6,30424,Ibanez,,Card,Yellow Card
+1489371,46,,6,30424,Ibanez,618.0,subst,Substitution 1
+1489371,46,,6,747,Casemiro,299.0,subst,Substitution 2
+1489371,61,,6,1646,Lucas Paqueta,1165.0,subst,Substitution 3
+1489371,62,,6,196156,I. Thiago,265785.0,subst,Substitution 4
+1489371,65,,31,744,B. Diaz,336659.0,subst,Substitution 1
+1489371,65,,31,129678,A. Ounahi,415431.0,subst,Substitution 2
+1489371,80,,31,545,N. Mazraoui,162451.0,subst,Substitution 3
+1489371,80,,31,340573,B. El Khannouss,535046.0,subst,Substitution 4
+1489371,80,,6,10135,Bruno Guimaraes,275170.0,subst,Substitution 5
+1489371,89,,31,161897,I. Saibari,36579.0,subst,Substitution 5
