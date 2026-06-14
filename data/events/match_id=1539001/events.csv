@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539001,27,,20,338014,N. Irankunda,441269.0,Goal,Normal Goal
+1539001,46,,777,63274,B. Yilmaz,339883.0,subst,Substitution 1
+1539001,61,,20,338014,N. Irankunda,312459.0,subst,Substitution 1
+1539001,62,,777,37155,O. Kokcu,454.0,subst,Substitution 2
+1539001,74,,20,198352,M. Toure,296645.0,subst,Substitution 2
+1539001,74,,20,6808,J. Italiano,33847.0,subst,Substitution 3
+1539001,75,,20,6904,C. Metcalfe,,Goal,Normal Goal
+1539001,81,,777,214463,I. Yuksek,24807.0,subst,Substitution 3
+1539001,81,,777,22222,Z. Celik,1719.0,subst,Substitution 4
+1539001,84,,20,337587,J. Bos,225.0,subst,Substitution 4
+1539001,84,,20,441269,P. Okon-Engstler,2749.0,subst,Substitution 5
+1539001,85,,777,142959,K. Akturkoglu,388570.0,subst,Substitution 5
+1539001,86,,777,454,Y. Akgun,,Card,Yellow Card
