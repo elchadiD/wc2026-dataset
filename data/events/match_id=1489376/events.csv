@@ -1,0 +1,18 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489376,51,,1118,290,V. van Dijk,542.0,Goal,Normal Goal
+1489376,57,,12,33321,K. Nakamura,32862.0,Goal,Normal Goal
+1489376,61,,1118,37724,C. Summerville,,Card,Yellow Card
+1489376,64,,1118,37724,C. Summerville,542.0,Goal,Normal Goal
+1489376,66,,12,33224,D. Maeda,1942.0,subst,Substitution 1
+1489376,70,,1118,249,D. Malen,667.0,subst,Substitution 1
+1489376,70,,1118,37724,C. Summerville,36899.0,subst,Substitution 2
+1489376,70,,1118,36902,T. Reijnders,38747.0,subst,Substitution 3
+1489376,75,,12,32858,T. Watanabe,2597.0,subst,Substitution 2
+1489376,75,,12,32862,T. Kubo,33289.0,subst,Substitution 3
+1489376,75,,12,2598,R. Doan,32887.0,subst,Substitution 4
+1489376,81,,1118,542,R. Gravenberch,18861.0,subst,Substitution 4
+1489376,83,,1118,667,M. Depay,,Card,Yellow Card
+1489376,84,,12,72155,A. Ueda,422572.0,subst,Substitution 5
+1489376,85,,1118,247,C. Gakpo,38750.0,subst,Substitution 5
+1489376,88,,12,2601,D. Kamada,33289.0,Goal,Normal Goal
+1489376,90,1.0,1118,152849,M. van de Ven,,Card,Yellow Card
