@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489374,6,,25,637,F. Nmecha,203224.0,Goal,Normal Goal
+1489374,21,,5530,309763,L. Comenencia,,Goal,Normal Goal
+1489374,38,,25,26243,N. Schlotterbeck,280074.0,Goal,Normal Goal
+1489374,45,5.0,25,978,K. Havertz,,Goal,Penalty
+1489374,46,,5530,161884,S. Hansen,163220.0,subst,Substitution 1
+1489374,47,,25,181812,J. Musiala,502.0,Goal,Normal Goal
+1489374,64,,25,181812,J. Musiala,26475.0,subst,Substitution 1
+1489374,65,,5530,18981,J. Locadia,195067.0,subst,Substitution 2
+1489374,68,,25,280074,N. Brown,26475.0,Goal,Normal Goal
+1489374,73,,25,972,J. Tah,2285.0,subst,Substitution 2
+1489374,73,,25,637,F. Nmecha,511.0,subst,Substitution 3
+1489374,73,,25,280074,N. Brown,25158.0,subst,Substitution 4
+1489374,78,,25,26475,D. Undav,502.0,Goal,Normal Goal
+1489374,83,,5530,906,T. Chong,38708.0,subst,Substitution 3
+1489374,83,,25,502,J. Kimmich,25368.0,subst,Substitution 5
+1489374,88,,25,978,K. Havertz,26475.0,Goal,Normal Goal
