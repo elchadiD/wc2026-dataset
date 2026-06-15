@@ -1,0 +1,12 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489380,16,,1533,308689,S. Lopes Cabral,,Card,Yellow Card
+1489380,61,,1533,1494,J. Cabral,113580.0,subst,Substitution 1
+1489380,61,,1533,343287,D. Livramento,22265.0,subst,Substitution 2
+1489380,61,,1533,37436,L. Duarte,37435.0,subst,Substitution 3
+1489380,71,,9,328,F. Ruiz,47311.0,subst,Substitution 1
+1489380,71,,9,296667,Gavi,386828.0,subst,Substitution 2
+1489380,76,,1533,308689,S. Lopes Cabral,142016.0,subst,Substitution 4
+1489380,79,,1533,50745,J. Monteiro,265556.0,subst,Substitution 5
+1489380,81,,9,931,F. Torres,1323.0,subst,Substitution 3
+1489380,87,,9,44,Rodri,183799.0,subst,Substitution 4
+1489380,90,3.0,9,133609,Pedri,,Card,Yellow Card
