@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489377,13,,32,190575,M. Attia,,Card,Yellow Card
+1489377,14,,1,2920,T. Castagne,,Card,Yellow Card
+1489377,19,,32,17269,E. Ashour,306.0,Goal,Normal Goal
+1489377,34,,32,2649,A. Fatouh,,Card,Yellow Card
+1489377,56,,1,2920,T. Castagne,2120.0,subst,Substitution 1
+1489377,56,,1,162714,A. Onana,162007.0,subst,Substitution 2
+1489377,66,,1,147859,C. De Ketelaere,907.0,subst,Substitution 3
+1489377,66,,1,2654,M. Hany,,Goal,Own Goal
+1489377,71,,32,17269,E. Ashour,16805.0,subst,Substitution 1
+1489377,75,,1,162007,M. De Cuyper,,Card,Yellow Card
+1489377,76,,32,395075,M. Ziko,16871.0,subst,Substitution 2
+1489377,76,,32,306,M. Salah,550547.0,subst,Substitution 3
+1489377,86,,1,1422,J. Doku,340077.0,subst,Substitution 4
+1489377,86,,1,629,K. De Bruyne,78.0,subst,Substitution 5
+1489377,88,,32,16813,H. Fathy,70535.0,subst,Substitution 4
+1489377,88,,32,2649,A. Fatouh,2656.0,subst,Substitution 5
