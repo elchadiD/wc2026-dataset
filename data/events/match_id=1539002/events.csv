@@ -1,0 +1,18 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539002,7,,5,265820,Y. Ayari,,Goal,Normal Goal
+1539002,30,,5,2864,A. Isak,18979.0,Goal,Normal Goal
+1539002,43,,28,163068,O. Rekik,180560.0,Goal,Normal Goal
+1539002,54,,28,25300,R. Khedira,,Card,Yellow Card
+1539002,59,,5,18979,V. Gyokeres,2864.0,Goal,Normal Goal
+1539002,65,,5,47969,G. Gudmundsson,226765.0,subst,Substitution 1
+1539002,65,,5,48002,B. Nygren,347316.0,subst,Substitution 2
+1539002,72,,28,323974,E. Saad,57518.0,subst,Substitution 1
+1539002,72,,28,18942,Y. Valery,67195.0,subst,Substitution 2
+1539002,72,,28,21587,E. Skhiri,42012.0,subst,Substitution 3
+1539002,83,,28,25300,R. Khedira,310196.0,subst,Substitution 4
+1539002,84,,28,199310,A. Slimane,2962.0,subst,Substitution 5
+1539002,84,,5,48047,J. Karlstrom,30484.0,subst,Substitution 3
+1539002,84,,5,30484,M. Svanberg,2864.0,Goal,Normal Goal
+1539002,90,1.0,5,2864,A. Isak,153430.0,subst,Substitution 4
+1539002,90,1.0,5,47696,A. Bernhardsson,198654.0,subst,Substitution 5
+1539002,90,6.0,5,265820,Y. Ayari,347316.0,Goal,Normal Goal

@@ -1,0 +1,3 @@
+fixture_id,date,team_id,team_name,opponent_id,is_home,goals_for,goals_against,outcome,possession_pct,passes_total,passes_accurate,passes_pct,shots_total,shots_on_target,shots_off_target,shots_blocked,shots_inside_box,shots_outside_box,fouls,corners,offsides,yellow_cards,red_cards,gk_saves,xg,is_complete
+1489375,2026-06-14 23:00:00+00:00,1501,Ivory Coast,2382,True,1,0,W,45.0,233.0,193.0,83.0,6.0,1.0,2.0,3.0,3.0,3.0,8.0,2.0,,3.0,,0.0,0.73,True
+1489375,2026-06-14 23:00:00+00:00,2382,Ecuador,1501,False,0,1,L,55.0,285.0,248.0,87.0,6.0,0.0,6.0,0.0,1.0,5.0,3.0,0.0,,0.0,,1.0,0.54,True

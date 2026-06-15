@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489375,28,,1501,30807,S. Fofana,,Card,Yellow Card
+1489375,38,,1501,1642,F. Kessie,,Card,Yellow Card
+1489375,40,,1501,161747,G. Doue,,Card,Yellow Card
+1489375,56,,2382,280695,A. Minda,311543.0,subst,Substitution 1
+1489375,56,,1501,162707,E. Wahi,275651.0,subst,Substitution 1
+1489375,56,,1501,387643,B. Toure,157997.0,subst,Substitution 2
+1489375,62,,2382,25414,J. Yeboah,2583.0,subst,Substitution 2
+1489375,62,,2382,16360,A. Franco,2575.0,subst,Substitution 3
+1489375,73,,2382,2575,J. Porozo,,Card,Yellow Card
+1489375,77,,1501,3246,N. Pepe,474591.0,subst,Substitution 3
+1489375,77,,1501,30807,S. Fofana,22149.0,subst,Substitution 4
+1489375,77,,2382,35533,E. Valencia,361966.0,subst,Substitution 4
+1489375,89,,1501,161747,G. Doue,48119.0,subst,Substitution 5
+1489375,90,,1501,157997,A. Diallo,30504.0,Goal,Normal Goal
