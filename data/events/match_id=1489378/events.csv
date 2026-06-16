@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489378,7,,4673,94333.0,E. Just,18931.0,Goal,Normal Goal
+1489378,32,,22,2691.0,R. Rezaeian,,Goal,Normal Goal
+1489378,46,,22,343405.0,A. Yousefi,643918.0,subst,Substitution 1
+1489378,53,,22,89982.0,S. Moghanlou,29720.0,subst,Substitution 2
+1489378,54,,4673,94333.0,E. Just,18931.0,Goal,Normal Goal
+1489378,64,,22,134217.0,M. Mohebi,2691.0,Goal,Normal Goal
+1489378,65,,22,2699.0,S. Ghoddos,2685.0,subst,Substitution 3
+1489378,68,,4673,6931.0,L. Cacace,179856.0,subst,Substitution 1
+1489378,68,,4673,94322.0,C. McCowatt,242.0,subst,Substitution 2
+1489378,78,,4673,94346.0,T. Payne,6932.0,subst,Substitution 3
+1489378,80,,22,42315.0,M. Taremi,29937.0,subst,Substitution 4
+1489378,89,,22,2685.0,E. Hajsafi,,Card,Yellow Card
+1489378,90,2.0,4673,6935.0,S. Singh,158688.0,subst,Substitution 4
+1489378,90,2.0,4673,179862.0,M. Stamenic,430835.0,subst,Substitution 5

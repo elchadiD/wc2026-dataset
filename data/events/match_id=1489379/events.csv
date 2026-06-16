@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489379,41,,23,44475.0,Abdulelah Al-Amri,,Goal,Normal Goal
+1489379,44,,23,44475.0,Abdulelah Al-Amri,,Card,Yellow Card
+1489379,46,,7,,Darwin Núñez,51603.0,subst,Substitution 1
+1489379,46,,7,51572.0,Matías Viña,162891.0,subst,Substitution 2
+1489379,63,,23,306380.0,Musab Al Juwayr,44339.0,subst,Substitution 1
+1489379,72,,7,51494.0,Manuel Ugarte,5995.0,subst,Substitution 3
+1489379,80,,7,51776.0,Maximiliano Araújo,,Goal,Normal Goal
+1489379,81,,23,403087.0,Mohammed Abu Al-Shamat,134995.0,subst,Substitution 2
+1489379,81,,7,51776.0,Maximiliano Araújo,51618.0,subst,Substitution 4
+1489379,90,,23,44324.0,Firas Al-Buraikan,43953.0,subst,Substitution 3
+1489379,90,,23,202381.0,Moteb Al-Harbi,44382.0,subst,Substitution 4
+1489379,90,,23,44594.0,Saud Abdulhamid,44507.0,subst,Substitution 5
+1489379,90,,7,51530.0,Federico Viñas,16482.0,subst,Substitution 5
