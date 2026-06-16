@@ -1,0 +1,12 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489383,66,,2,278,K. Mbappe,19617.0,Goal,Normal Goal
+1489383,75,,13,2218,I. Sarr,446249.0,subst,Substitution 1
+1489383,76,,13,374058,L. Camara,327631.0,subst,Substitution 2
+1489383,80,,2,153,O. Dembele,161904.0,subst,Substitution 1
+1489383,82,,2,161904,B. Barcola,272.0,Goal,Normal Goal
+1489383,83,,13,20696,P. Gueye,18592.0,subst,Substitution 3
+1489383,83,,13,283058,N. Jackson,284072.0,subst,Substitution 4
+1489383,87,,2,343027,D. Doue,156477.0,subst,Substitution 2
+1489383,88,,13,2990,I. Gueye,41552.0,subst,Substitution 5
+1489383,90,5.0,13,446249,I. Mbaye,18592.0,Goal,Normal Goal
+1489383,90,6.0,2,278,K. Mbappe,,Goal,Normal Goal
