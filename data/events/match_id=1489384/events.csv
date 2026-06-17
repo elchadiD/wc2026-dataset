@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489384,12,,10,184,H. Kane,,Goal,Penalty
+1489384,36,,3,295026,M. Baturina,348205.0,Goal,Normal Goal
+1489384,42,,10,184,H. Kane,2937.0,Goal,Normal Goal
+1489384,45,5.0,3,66055,P. Musa,207.0,Goal,Normal Goal
+1489384,47,,10,129718,J. Bellingham,138908.0,Goal,Normal Goal
+1489384,58,,3,754,L. Modric,2291.0,subst,Substitution 1
+1489384,66,,3,387521,L. Vuskovic,260865.0,subst,Substitution 2
+1489384,66,,3,66055,P. Musa,202696.0,subst,Substitution 3
+1489384,72,,10,138787,A. Gordon,909.0,subst,Substitution 1
+1489384,72,,10,136723,N. Madueke,1460.0,subst,Substitution 2
+1489384,72,,10,2937,D. Rice,19170.0,subst,Substitution 3
+1489384,78,,3,295026,M. Baturina,842.0,subst,Substitution 4
+1489384,79,,3,2763,M. Pasalic,726.0,subst,Substitution 5
+1489384,80,,10,129718,J. Bellingham,19235.0,subst,Substitution 4
+1489384,85,,10,909,M. Rashford,1460.0,Goal,Normal Goal
+1489384,87,,10,626,J. Stones,67971.0,subst,Substitution 5
