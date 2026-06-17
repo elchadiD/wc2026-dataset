@@ -1,0 +1,3 @@
+fixture_id,date,team_id,team_name,opponent_id,is_home,goals_for,goals_against,outcome,possession_pct,passes_total,passes_accurate,passes_pct,shots_total,shots_on_target,shots_off_target,shots_blocked,shots_inside_box,shots_outside_box,fouls,corners,offsides,yellow_cards,red_cards,gk_saves,xg,is_complete
+1539016,2026-06-16 22:00:00+00:00,1567,Iraq,1090,True,1,4,L,39.0,332.0,270.0,81.0,11.0,1.0,8.0,2.0,8.0,3.0,11.0,2.0,1.0,1.0,,2.0,0.77,True
+1539016,2026-06-16 22:00:00+00:00,1090,Norway,1567,False,4,1,W,61.0,530.0,472.0,89.0,12.0,5.0,4.0,3.0,11.0,1.0,13.0,5.0,0.0,0.0,,0.0,2.53,True

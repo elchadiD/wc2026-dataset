@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539016,29,,1090,1100,Erling Haaland,265782.0,Goal,Normal Goal
+1539016,39,,1567,49451,Aymen Hussein,47792.0,Goal,Normal Goal
+1539016,43,,1090,1100,Erling Haaland,,Goal,Normal Goal
+1539016,59,,1567,299813,Ali Al-Hamadi,265448.0,subst,Substitution 1
+1539016,59,,1567,626479,Zaid Ismail,284295.0,subst,Substitution 2
+1539016,73,,1090,8492,Alexander Sørloth,278133.0,subst,Substitution 1
+1539016,73,,1090,265782,David Møller Wolfe,18967.0,subst,Substitution 2
+1539016,73,,1090,39043,Fredrik Aursnes,39143.0,subst,Substitution 3
+1539016,73,,1090,314511,Antonio Nusa,301528.0,subst,Substitution 4
+1539016,74,,1567,542644,Ali Jasim,229112.0,subst,Substitution 3
+1539016,74,,1567,145465,Hussein Ali,427187.0,subst,Substitution 4
+1539016,77,,1090,18967,Leo Østigård,37127.0,Goal,Normal Goal
+1539016,78,,1567,140747,Ibrahim Bayesh,154767.0,subst,Substitution 5
+1539016,81,,1090,37127,Martin Ødegaard,39064.0,subst,Substitution 5
+1539016,86,,1567,296373,Zaid Tahseen,,Card,Yellow Card

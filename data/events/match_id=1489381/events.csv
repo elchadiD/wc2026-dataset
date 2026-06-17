@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489381,8,,1532,276670,F. Chaibi,,Var,Goal Disallowed - offside
+1489381,17,,26,154,L. Messi,2472.0,Goal,Normal Goal
+1489381,46,,26,2468,G. Montiel,6503.0,subst,Substitution 1
+1489381,55,,26,217,L. Martinez,6009.0,subst,Substitution 2
+1489381,55,,26,6067,T. Almada,26315.0,subst,Substitution 3
+1489381,60,,26,154,L. Messi,,Goal,Normal Goal
+1489381,64,,1532,4399,H. Boudaoui,658.0,subst,Substitution 1
+1489381,64,,1532,85041,A. Gouiri,200139.0,subst,Substitution 2
+1489381,64,,1532,326067,A. Hadj Moussa,635.0,subst,Substitution 3
+1489381,76,,26,154,L. Messi,26315.0,Goal,Normal Goal
+1489381,80,,26,154,L. Messi,350037.0,subst,Substitution 4
+1489381,80,,26,30776,C. Romero,624.0,subst,Substitution 5
+1489381,81,,1532,409,N. Bentaleb,329163.0,subst,Substitution 4
+1489381,82,,1532,380587,I. Maza,129047.0,subst,Substitution 5
