@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489382,21,,775,7562,R. Schmid,1095.0,Goal,Normal Goal
+1489382,46,,775,7722,S. Kalajdzic,18830.0,subst,Substitution 1
+1489382,50,,1548,164026,A. Olwan,140609.0,Goal,Normal Goal
+1489382,59,,775,1095,X. Schlager,138935.0,subst,Substitution 2
+1489382,59,,775,505,D. Alaba,25287.0,subst,Substitution 3
+1489382,59,,775,25915,P. Mwene,327895.0,subst,Substitution 4
+1489382,67,,775,18830,M. Arnautovic,,Var,Goal Disallowed - handball
+1489382,72,,1548,102538,M. Abualnadi,72140.0,subst,Substitution 1
+1489382,76,,775,53900,Y. Al Arab,,Goal,Own Goal
+1489382,77,,775,1159,M. Sabitzer,,Card,Yellow Card
+1489382,81,,1548,310835,A. Nasib,213978.0,subst,Substitution 2
+1489382,81,,1548,53902,E. Haddad,123530.0,subst,Substitution 3
+1489382,83,,775,7562,R. Schmid,126642.0,subst,Substitution 5
+1489382,88,,1548,15286,M. Tamari,651096.0,subst,Substitution 4
+1489382,89,,1548,568556,O. Al Fakhouri,575283.0,subst,Substitution 5
+1489382,90,12.0,775,18830,M. Arnautovic,,Goal,Penalty
