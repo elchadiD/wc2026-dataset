@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539003,6,,27,335051,J. Neves,1864.0,Goal,Normal Goal
+1539003,13,,27,636,B. Silva,,Card,Yellow Card
+1539003,32,,1508,375,C. Mbemba,,Card,Yellow Card
+1539003,45,5.0,1508,20649,Y. Wissa,18816.0,Goal,Normal Goal
+1539003,46,,27,636,B. Silva,161585.0,subst,Substitution 1
+1539003,57,,1508,375598,N. Mukau,365331.0,subst,Substitution 1
+1539003,71,,27,1864,P. Neto,22236.0,subst,Substitution 2
+1539003,72,,27,263482,N. Mendes,130.0,subst,Substitution 3
+1539003,74,,1508,1424,E. Kayembe,48555.0,subst,Substitution 2
+1539003,74,,1508,18816,A. Masuaku,21098.0,subst,Substitution 3
+1539003,83,,27,128384,Vitinha,41585.0,subst,Substitution 4
+1539003,85,,1508,3033,C. Bakambu,20674.0,subst,Substitution 4
+1539003,85,,1508,18846,A. Wan-Bissaka,24245.0,subst,Substitution 5
+1539003,88,,27,130,N. Semedo,,Card,Yellow Card
+1539003,90,2.0,27,161939,T. Araujo,,Card,Yellow Card
