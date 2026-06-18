@@ -1,0 +1,20 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539005,59,,1113,7318,A. Dedic,,Card,Yellow Card
+1539005,61,,1113,790,E. Dzeko,,Card,Yellow Card
+1539005,63,,1113,264094,B. Tahirovic,162222.0,subst,Substitution 1
+1539005,64,,1113,790,E. Dzeko,329409.0,subst,Substitution 2
+1539005,65,,15,2803,N. Elvedi,,Card,Yellow Card
+1539005,71,,15,48648,D. Ndoye,406244.0,subst,Substitution 1
+1539005,71,,15,163032,F. Rieder,48471.0,subst,Substitution 2
+1539005,71,,15,951,M. Aebischer,957.0,subst,Substitution 3
+1539005,74,,15,406244,J. Manzambi,,Goal,Normal Goal
+1539005,80,,1113,271350,T. Muharemovic,,Card,Red Card
+1539005,84,,15,48471,R. Vargas,421.0,Goal,Normal Goal
+1539005,86,,1113,46930,E. Demirovic,77037.0,subst,Substitution 3
+1539005,86,,1113,1324,I. Sunjic,50006.0,subst,Substitution 4
+1539005,86,,15,48378,S. Widmer,349344.0,subst,Substitution 4
+1539005,89,,15,421,B. Embolo,48497.0,subst,Substitution 5
+1539005,90,,15,406244,J. Manzambi,48471.0,Goal,Normal Goal
+1539005,90,1.0,1113,395559,K. Alajbegovic,340173.0,subst,Substitution 5
+1539005,90,3.0,1113,340173,E. Mahmic,,Goal,Normal Goal
+1539005,90,7.0,15,1464,G. Xhaka,,Goal,Penalty
