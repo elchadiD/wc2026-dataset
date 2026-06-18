@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489386,7,,8,64268,J. Mojica,,Card,Yellow Card
+1489386,34,,1568,360114,A. Khusanov,,Card,Yellow Card
+1489386,40,,8,13736,D. Munoz,2489.0,Goal,Normal Goal
+1489386,46,,1568,72127,O. Urunov,53834.0,subst,Substitution 1
+1489386,46,,1568,73514,S. Nasrullaev,532759.0,subst,Substitution 2
+1489386,60,,1568,263676,A. Fayzullaev,,Goal,Normal Goal
+1489386,65,,8,2489,L. Diaz,324034.0,Goal,Normal Goal
+1489386,72,,8,517,J. Rodriguez,13376.0,subst,Substitution 1
+1489386,77,,1568,263676,A. Fayzullaev,65584.0,subst,Substitution 3
+1489386,77,,1568,34121,R. Ashurmatov,358427.0,subst,Substitution 4
+1489386,80,,8,47237,L. Suarez,47582.0,subst,Substitution 2
+1489386,80,,8,324034,G. Puerta,195104.0,subst,Substitution 3
+1489386,90,3.0,8,2489,L. Diaz,345748.0,subst,Substitution 4
+1489386,90,3.0,8,13708,J. Arias,289592.0,subst,Substitution 5
+1489386,90,3.0,1568,53535,E. Shomurodov,72128.0,subst,Substitution 5
+1489386,90,9.0,8,13376,J. Campaz,47582.0,Goal,Normal Goal

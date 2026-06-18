@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489385,16,,1504,475575,C. Yirenkyi,,Card,Yellow Card
+1489385,46,,1504,3412,L. Ati Zigi,559233.0,subst,Substitution 1
+1489385,58,,1504,350856,E. Nuamah,303467.0,subst,Substitution 2
+1489385,58,,1504,199837,K. Sulemana,82090.0,subst,Substitution 3
+1489385,63,,11,51648,C. Waterman,2983.0,subst,Substitution 1
+1489385,63,,11,554208,C. Martinez,292396.0,subst,Substitution 2
+1489385,72,,11,2975,C. Blackman,,Card,Yellow Card
+1489385,74,,11,2979,J. Rodriguez,96615.0,subst,Substitution 3
+1489385,78,,1504,21010,E. Owusu,3608.0,subst,Substitution 4
+1489385,87,,1504,3428,J. Ayew,410016.0,subst,Substitution 5
+1489385,90,,11,2975,C. Blackman,2977.0,subst,Substitution 4
+1489385,90,5.0,1504,475575,C. Yirenkyi,,Goal,Normal Goal
+1489385,90,9.0,11,71230,C. Harvey,,Card,Yellow Card
