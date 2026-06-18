@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539004,6,,770,241,M. Sadilek,386837.0,Goal,Normal Goal
+1539004,33,,1531,3287,T. Mokoena,,Card,Yellow Card
+1539004,40,,1531,194430,T. Mbatha,,Card,Yellow Card
+1539004,46,,1531,268710,J. Adams,414149.0,subst,Substitution 1
+1539004,55,,770,25348,V. Darida,66387.0,subst,Substitution 1
+1539004,55,,770,386837,A. Sojka,1237.0,subst,Substitution 2
+1539004,66,,1531,127429,I. Rayners,201354.0,subst,Substitution 2
+1539004,67,,770,66019,A. Hlozek,66353.0,subst,Substitution 3
+1539004,67,,770,241,M. Sadilek,1243.0,subst,Substitution 4
+1539004,75,,770,66407,L. Krejci,,Card,Yellow Card
+1539004,78,,770,162194,L. Cerv,128772.0,subst,Substitution 5
+1539004,83,,1531,3287,T. Mokoena,,Goal,Penalty
+1539004,84,,1531,354831,T. Maseko,359561.0,subst,Substitution 3
