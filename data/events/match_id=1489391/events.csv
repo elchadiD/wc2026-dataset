@@ -1,0 +1,20 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489391,11,,2384,20457,C. Burgess,,Goal,Own Goal
+1489391,16,,20,337587,J. Bos,,Card,Yellow Card
+1489391,32,,20,348568,A. Circati,,Card,Yellow Card
+1489391,43,,2384,355994,A. Freeman,,Goal,Normal Goal
+1489391,46,,20,20457,C. Burgess,33847.0,subst,Substitution 1
+1489391,46,,20,312459,N. Velupillay,6904.0,subst,Substitution 2
+1489391,46,,20,198352,M. Toure,338014.0,subst,Substitution 3
+1489391,56,,2384,19549,A. Robinson,,Card,Yellow Card
+1489391,61,,20,2751,M. Leckie,342035.0,subst,Substitution 4
+1489391,74,,2384,73868,R. Pepi,201713.0,subst,Substitution 1
+1489391,78,,20,441269,P. Okon-Engstler,2749.0,subst,Substitution 5
+1489391,80,,2384,38735,S. Dest,50852.0,subst,Substitution 2
+1489391,80,,2384,19549,A. Robinson,50737.0,subst,Substitution 3
+1489391,88,,20,20079,H. Souttar,,Card,Yellow Card
+1489391,89,,2384,138835,F. Balogun,,Card,Yellow Card
+1489391,89,,20,6808,J. Italiano,,Card,Yellow Card
+1489391,90,3.0,2384,126949,C. Richards,,Card,Yellow Card
+1489391,90,6.0,2384,138835,F. Balogun,427.0,subst,Substitution 4
+1489391,90,6.0,2384,415,W. McKennie,161921.0,subst,Substitution 5
