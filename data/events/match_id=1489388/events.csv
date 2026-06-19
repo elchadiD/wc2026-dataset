@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489388,4,,17,927,Lee Kang-In,,Card,Yellow Card
+1489388,50,,16,35970,L. Romo,,Goal,Normal Goal
+1489388,57,,17,2906,Lee Jae-Sung,24888.0,subst,Substitution 1
+1489388,57,,17,186,Son Heung-Min,34710.0,subst,Substitution 2
+1489388,58,,17,2909,Paik Seung-Ho,,Card,Yellow Card
+1489388,71,,16,212233,B. Gutierrez,35576.0,subst,Substitution 1
+1489388,71,,16,35970,L. Romo,313383.0,subst,Substitution 2
+1489388,71,,17,197985,Seol Young-Woo,304958.0,subst,Substitution 3
+1489388,71,,17,2912,Kim Moon-Hwan,237050.0,subst,Substitution 4
+1489388,77,,17,2909,Paik Seung-Ho,34211.0,subst,Substitution 5
+1489388,80,,16,2887,R. Jimenez,94562.0,subst,Substitution 3
+1489388,80,,16,2879,R. Alvarado,127227.0,subst,Substitution 4
+1489388,84,,16,35532,J. Quinones,36111.0,subst,Substitution 5

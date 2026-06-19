@@ -1,0 +1,24 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489387,9,,5529,51295,Derek Cornelius,,Card,Yellow Card
+1489387,16,,5529,2001,Cyle Larin,,Goal,Normal Goal
+1489387,29,,5529,8489,Jonathan David,,Goal,Normal Goal
+1489387,33,,5529,51016,Tajon Buchanan,,Var,Penalty cancelled
+1489387,33,,1569,175439,Homam Al-Amin,,Card,Red Card
+1489387,33,,1569,175439,Homam Al-Amin,,Var,Card upgrade
+1489387,40,,1569,542541,Yusuf Abdurisag,42060.0,subst,Substitution 1
+1489387,45,3.0,5529,8489,Jonathan David,,Goal,Normal Goal
+1489387,46,,5529,51295,Derek Cornelius,407017.0,subst,Substitution 1
+1489387,46,,1569,200981,Jassem Gaber Abdulsallam,283174.0,subst,Substitution 2
+1489387,46,,1569,42075,Edmilson Junior,2539.0,subst,Substitution 3
+1489387,53,,1569,2535,Assim Madibo,,Card,Red Card
+1489387,54,,1569,2535,Assim Madibo,,Var,Card upgrade
+1489387,57,,5529,328046,Ismael Koné,294824.0,subst,Substitution 2
+1489387,59,,1569,2544,Akram Afif,339795.0,subst,Substitution 4
+1489387,62,,1569,2539,Ahmed Fathi,,Card,Yellow Card
+1489387,64,,5529,294824,Nathan-Dylan Saliba,,Goal,Normal Goal
+1489387,71,,5529,362145,Ali Ahmed,351587.0,subst,Substitution 3
+1489387,71,,5529,327738,Luc De Fougerolles,50826.0,subst,Substitution 4
+1489387,75,,5529,283174,Mohamed Naceur Almanai,,Goal,Own Goal
+1489387,83,,5529,51016,Tajon Buchanan,416901.0,subst,Substitution 5
+1489387,87,,1569,2539,Ahmed Fathi,42288.0,subst,Substitution 5
+1489387,90,2.0,5529,8489,Jonathan David,294824.0,Goal,Normal Goal
