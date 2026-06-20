@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539006,2,,2380,305832.0,M. Galarza,70747.0,Goal,Normal Goal
+1539006,4,,2380,305832.0,M. Galarza,,Card,Yellow Card
+1539006,45,3.0,2380,2507.0,M. Almiron,,Card,Red Card
+1539006,46,,2380,70670.0,I. Pitta,195107.0,subst,Substitution 1
+1539006,46,,777,142959.0,K. Akturkoglu,63274.0,subst,Substitution 1
+1539006,60,,777,214463.0,I. Yuksek,339887.0,subst,Substitution 2
+1539006,60,,777,454.0,Y. Akgun,388570.0,subst,Substitution 3
+1539006,63,,777,,V. Montella,,Card,Yellow Card
+1539006,67,,2380,278370.0,D. Gomez,35808.0,subst,Substitution 2
+1539006,70,,777,1361.0,F. Kadioglu,50057.0,subst,Substitution 4
+1539006,71,,777,50057.0,E. Elmali,,Card,Yellow Card
+1539006,81,,2380,195992.0,J. Caceres,425020.0,subst,Substitution 3
+1539006,86,,777,61837.0,A. Bardakci,37155.0,subst,Substitution 5
+1539006,90,2.0,2380,70747.0,J. Enciso,6483.0,subst,Substitution 4
+1539006,90,2.0,2380,305832.0,M. Galarza,70732.0,subst,Substitution 5
