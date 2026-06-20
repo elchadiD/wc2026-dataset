@@ -1,0 +1,13 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489390,2,,31,161897,Ismael Saibari,744.0,Goal,Normal Goal
+1489390,23,,31,18814,Issa Diop,,Card,Yellow Card
+1489390,60,,1108,1117,Kieran Tierney,343576.0,subst,Substitution 1
+1489390,66,,1108,289,Andy Robertson,,Card,Yellow Card
+1489390,71,,1108,1125,Ryan Christie,19077.0,subst,Substitution 2
+1489390,71,,1108,19524,Che Adams,45307.0,subst,Substitution 3
+1489390,84,,31,744,Brahim Díaz,535046.0,subst,Substitution 1
+1489390,84,,31,340573,Bilal El Khannouss,336659.0,subst,Substitution 2
+1489390,84,,31,161897,Ismael Saibari,36579.0,subst,Substitution 3
+1489390,89,,1108,19191,John McGinn,45078.0,subst,Substitution 4
+1489390,89,,1108,138417,Nathan Patterson,1115.0,subst,Substitution 5
+1489390,90,,31,129678,Azzedine Ounahi,415431.0,subst,Substitution 4

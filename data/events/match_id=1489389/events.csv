@@ -1,0 +1,18 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489389,4,,2386,20850,C. Arcus,,Card,Yellow Card
+1489389,23,,6,1165,M. Cunha,,Goal,Normal Goal
+1489389,36,,6,1165,M. Cunha,762.0,Goal,Normal Goal
+1489389,40,,6,1496,Raphinha,407806.0,subst,Substitution 1
+1489389,45,3.0,6,762,Vinicius Junior,1646.0,Goal,Normal Goal
+1489389,45,4.0,2386,8601,F. Pierrot,,Card,Yellow Card
+1489389,46,,2386,20850,C. Arcus,194242.0,subst,Substitution 1
+1489389,46,,2386,8601,F. Pierrot,84087.0,subst,Substitution 2
+1489389,62,,2386,174915,J. Casimir,128766.0,subst,Substitution 3
+1489389,64,,6,1646,Lucas Paqueta,127769.0,subst,Substitution 2
+1489389,64,,6,1165,M. Cunha,377122.0,subst,Substitution 3
+1489389,65,,6,24866,Douglas Santos,,Card,Yellow Card
+1489389,71,,2386,162733,R. Providence,21613.0,subst,Substitution 4
+1489389,72,,2386,338367,D. Jean Jacques,,Card,Yellow Card
+1489389,81,,6,762,Vinicius Junior,275170.0,subst,Substitution 4
+1489389,81,,6,10135,Bruno Guimaraes,10097.0,subst,Substitution 5
+1489389,81,,2386,20665,J. Bellegarde,50958.0,subst,Substitution 5
