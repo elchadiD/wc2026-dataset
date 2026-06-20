@@ -1,0 +1,20 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539007,5,,1118,38750,B. Brobbey,247.0,Goal,Normal Goal
+1539007,17,,1118,38750,B. Brobbey,226.0,Goal,Normal Goal
+1539007,46,,1118,249,D. Malen,37724.0,subst,Substitution 1
+1539007,47,,1118,247,C. Gakpo,226.0,Goal,Normal Goal
+1539007,53,,5,47969,G. Gudmundsson,,Card,Yellow Card
+1539007,54,,1118,247,C. Gakpo,37724.0,Goal,Normal Goal
+1539007,55,,5,47696,A. Bernhardsson,153430.0,subst,Substitution 1
+1539007,56,,5,48047,J. Karlstrom,350850.0,subst,Substitution 2
+1539007,56,,5,48002,B. Nygren,347316.0,subst,Substitution 3
+1539007,59,,5,153430,A. Elanga,2864.0,Goal,Normal Goal
+1539007,59,,1118,538,F. de Jong,36899.0,subst,Substitution 2
+1539007,59,,1118,36902,T. Reijnders,36905.0,subst,Substitution 3
+1539007,72,,1118,38750,B. Brobbey,667.0,subst,Substitution 4
+1539007,75,,5,265820,Y. Ayari,,Card,Yellow Card
+1539007,79,,5,265820,Y. Ayari,160925.0,subst,Substitution 4
+1539007,80,,5,347316,L. Bergvall,,Card,Yellow Card
+1539007,89,,1118,37724,C. Summerville,667.0,Goal,Normal Goal
+1539007,90,,1118,247,C. Gakpo,544.0,subst,Substitution 5
+1539007,90,3.0,5,47969,G. Gudmundsson,226765.0,subst,Substitution 5
