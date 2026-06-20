@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489393,30,,1501,1642,F. Kessie,,Goal,Normal Goal
+1489393,46,,25,26243,N. Schlotterbeck,2285.0,subst,Substitution 1
+1489393,60,,25,644,L. Sane,128533.0,subst,Substitution 2
+1489393,60,,25,181812,J. Musiala,26475.0,subst,Substitution 3
+1489393,60,,25,328033,A. Pavlovic,714.0,subst,Substitution 4
+1489393,68,,25,26475,D. Undav,714.0,Goal,Normal Goal
+1489393,75,,1501,275651,A. Bonny,137303.0,subst,Substitution 1
+1489393,75,,1501,22149,I. Sangare,30807.0,subst,Substitution 2
+1489393,75,,1501,157997,A. Diallo,301771.0,subst,Substitution 3
+1489393,82,,1501,30504,W. Singo,161747.0,subst,Substitution 4
+1489393,85,,1501,513776,Y. Diomande,3246.0,subst,Substitution 5
+1489393,85,,25,978,K. Havertz,511.0,subst,Substitution 5
+1489393,90,4.0,25,26475,D. Undav,637.0,Goal,Normal Goal
