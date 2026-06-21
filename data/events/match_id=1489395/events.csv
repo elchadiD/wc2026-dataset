@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489395,3,,1,907,R. Lukaku,,Card,Yellow Card
+1489395,25,,22,42315,M. Taremi,,Var,Goal Disallowed - offside
+1489395,33,,22,19614,S. Ezatolahi,,Card,Yellow Card
+1489395,46,,22,136880,S. Hardani,2700.0,subst,Substitution 1
+1489395,58,,1,264,T. Meunier,2920.0,subst,Substitution 1
+1489395,58,,1,2120,N. Raskin,78.0,subst,Substitution 2
+1489395,58,,1,1417,A. Saelemaekers,25458.0,subst,Substitution 3
+1489395,66,,22,2685,E. Hajsafi,2688.0,subst,Substitution 2
+1489395,66,,22,134217,M. Mohebi,2697.0,subst,Substitution 3
+1489395,66,,1,312964,N. Ngoy,,Card,Red Card
+1489395,73,,1,907,R. Lukaku,204043.0,subst,Substitution 4
+1489395,79,,22,2699,S. Ghoddos,89982.0,subst,Substitution 4
+1489395,85,,22,19614,S. Ezatolahi,29937.0,subst,Substitution 5
+1489395,87,,1,629,K. De Bruyne,340077.0,subst,Substitution 5
