@@ -1,0 +1,18 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489397,10,,9,386828,Lamine Yamal,47323.0,Goal,Normal Goal
+1489397,21,,9,47323,M. Oyarzabal,622.0,Goal,Normal Goal
+1489397,24,,9,47323,M. Oyarzabal,1323.0,Goal,Normal Goal
+1489397,30,,23,44340,S. Al Dawsari,,Card,Yellow Card
+1489397,46,,9,386828,Lamine Yamal,184226.0,subst,Substitution 1
+1489397,46,,9,47323,M. Oyarzabal,931.0,subst,Substitution 2
+1489397,46,,23,44315,A. Al Khaibari,44349.0,subst,Substitution 1
+1489397,46,,23,306380,M. Al Juwayr,44382.0,subst,Substitution 2
+1489397,49,,9,44362,H. Tambakti,,Goal,Own Goal
+1489397,60,,23,44349,M. Kanno,,Card,Yellow Card
+1489397,60,,23,44475,A. Al Amri,593759.0,subst,Substitution 3
+1489397,60,,23,44324,F. Al Buraikan,403087.0,subst,Substitution 4
+1489397,61,,9,1323,D. Olmo,47311.0,subst,Substitution 3
+1489397,61,,9,182219,A. Baena,183799.0,subst,Substitution 4
+1489397,70,,9,133609,Pedri,328.0,subst,Substitution 5
+1489397,90,,23,44339,N. Al Dawsari,44701.0,subst,Substitution 5
+1489397,90,2.0,9,931,F. Torres,,Var,Goal Disallowed - offside
