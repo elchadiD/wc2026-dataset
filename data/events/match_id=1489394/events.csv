@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489394,4,,12,2601,D. Kamada,33321,Goal,Normal Goal
+1489394,31,,12,72155,A. Ueda,38114,Goal,Normal Goal
+1489394,46,,28,323974,E. Saad,310196,subst,Substitution 1
+1489394,46,,28,2945,D. Bronn,135059,subst,Substitution 2
+1489394,65,,28,57518,S. Tounekti,2962,subst,Substitution 3
+1489394,69,,12,1942,J. Ito,72155,Goal,Normal Goal
+1489394,73,,12,2601,D. Kamada,351014,subst,Substitution 1
+1489394,74,,12,2598,R. Doan,32887,subst,Substitution 2
+1489394,79,,12,33321,K. Nakamura,199143,subst,Substitution 3
+1489394,79,,12,2597,T. Tomiyasu,33165,subst,Substitution 4
+1489394,83,,12,72155,A. Ueda,33889,Goal,Normal Goal
+1489394,84,,12,72155,A. Ueda,375930,subst,Substitution 5
+1489394,90,1.0,28,49583,A. Abdi,42012,subst,Substitution 4
+1489394,90,1.0,28,21587,E. Skhiri,25300,subst,Substitution 5
