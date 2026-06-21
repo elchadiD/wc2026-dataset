@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489392,38,,2382,16470,J. Alcivar,,Card,Yellow Card
+1489392,39,,5530,18997,L. Bacuna,,Card,Yellow Card
+1489392,46,,2382,16470,J. Alcivar,361966.0,subst,Substitution 1
+1489392,53,,5530,19047,J. Bacuna,,Card,Yellow Card
+1489392,56,,5530,309763,L. Comenencia,,Card,Yellow Card
+1489392,70,,2382,46731,P. Estupinan,311543.0,subst,Substitution 2
+1489392,75,,5530,36857,J. Gaari,,Card,Yellow Card
+1489392,75,,5530,19047,J. Bacuna,41627.0,subst,Substitution 1
+1489392,76,,5530,353808,D. Fonville,37066.0,subst,Substitution 2
+1489392,76,,5530,906,T. Chong,195067.0,subst,Substitution 3
+1489392,83,,2382,16360,A. Franco,2583.0,subst,Substitution 3
+1489392,83,,5530,18981,J. Locadia,38708.0,subst,Substitution 4
+1489392,84,,5530,309763,L. Comenencia,36842.0,subst,Substitution 5
+1489392,89,,2382,25414,J. Yeboah,16590.0,subst,Substitution 4
+1489392,90,1.0,5530,38708,G. Kastaneer,,Card,Yellow Card
