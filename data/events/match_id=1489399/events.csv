@@ -1,0 +1,18 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489399,9,,26,154,L. Messi,154.0,Goal,Missed Penalty
+1489399,38,,26,154,L. Messi,6231.0,Goal,Normal Goal
+1489399,40,,775,711,S. Posch,,Card,Yellow Card
+1489399,57,,26,30776,C. Romero,624.0,subst,Substitution 1
+1489399,64,,26,6067,T. Almada,6009.0,subst,Substitution 2
+1489399,65,,26,217,L. Martinez,26315.0,subst,Substitution 3
+1489399,67,,775,505,D. Alaba,25314.0,subst,Substitution 1
+1489399,68,,775,711,S. Posch,7327.0,subst,Substitution 2
+1489399,68,,775,327895,P. Wanner,18830.0,subst,Substitution 3
+1489399,76,,26,6231,F. Medina,,Card,Yellow Card
+1489399,76,,775,1157,K. Laimer,,Card,Yellow Card
+1489399,78,,775,7562,R. Schmid,126642.0,subst,Substitution 4
+1489399,82,,26,2472,R. de Paul,271.0,subst,Substitution 4
+1489399,82,,26,6231,F. Medina,529.0,subst,Substitution 5
+1489399,85,,775,25297,M. Gregoritsch,138935.0,subst,Substitution 5
+1489399,90,2.0,26,271,L. Paredes,,Card,Yellow Card
+1489399,90,5.0,26,154,L. Messi,,Goal,Normal Goal
