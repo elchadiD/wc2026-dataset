@@ -1,0 +1,19 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489396,15,,4673,210165,F. Surman,94346.0,Goal,Normal Goal
+1489396,17,,32,16841,M. Lasheen,,Card,Yellow Card
+1489396,20,,4673,6935,S. Singh,,Card,Yellow Card
+1489396,34,,4673,94322,C. McCowatt,,Card,Yellow Card
+1489396,41,,32,16813,H. Fathy,16805.0,subst,Substitution 1
+1489396,58,,32,395075,M. Ziko,2654.0,Goal,Normal Goal
+1489396,66,,4673,94322,C. McCowatt,179856.0,subst,Substitution 1
+1489396,67,,32,306,M. Salah,395075.0,Goal,Normal Goal
+1489396,76,,4673,6935,S. Singh,242.0,subst,Substitution 2
+1489396,76,,4673,6931,L. Cacace,158688.0,subst,Substitution 3
+1489396,76,,32,81573,O. Marmoush,2664.0,subst,Substitution 2
+1489396,76,,32,395075,M. Ziko,550547.0,subst,Substitution 3
+1489396,82,,32,2664,Trezeguet,306.0,Goal,Normal Goal
+1489396,85,,32,17269,E. Ashour,16871.0,subst,Substitution 4
+1489396,85,,32,306,M. Salah,269621.0,subst,Substitution 5
+1489396,85,,4673,94346,T. Payne,430835.0,subst,Substitution 4
+1489396,85,,4673,94333,E. Just,94405.0,subst,Substitution 5
+1489396,90,9.0,32,269621,H. Abdelmaguid,196343.0,subst,Substitution 6

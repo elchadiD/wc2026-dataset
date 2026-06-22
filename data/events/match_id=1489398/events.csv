@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489398,5,,1533,308689,Sidny Lopes Cabral,,Card,Yellow Card
+1489398,20,,7,863,Rodrigo Bentancur,,Card,Yellow Card
+1489398,21,,1533,96512,Kevin Lenini,,Goal,Normal Goal
+1489398,44,,7,51776,Maximiliano Araújo,,Goal,Normal Goal
+1489398,45,6.0,7,51603,Agustín Canobbio,51776.0,Goal,Normal Goal
+1489398,46,,1533,265556,Telmo Arcanjo,37435.0,subst,Substitution 1
+1489398,58,,7,47254,Mathías Olivera,,Card,Yellow Card
+1489398,58,,1533,44612,Garry Rodrigues,291024.0,subst,Substitution 2
+1489398,58,,1533,309182,Gilson Tavares,22265.0,subst,Substitution 3
+1489398,61,,1533,291024,Hélio Varela,,Goal,Normal Goal
+1489398,69,,7,51776,Maximiliano Araújo,,Var,Goal cancelled
+1489398,70,,7,51494,Manuel Ugarte,5995.0,subst,Substitution 1
+1489398,70,,7,51530,Federico Viñas,51617.0,subst,Substitution 2
+1489398,71,,1533,96512,Kevin Lenini,37436.0,subst,Substitution 4
+1489398,80,,1533,50745,Jamiro Monteiro,128007.0,subst,Substitution 5
+1489398,82,,7,51776,Maximiliano Araújo,51618.0,subst,Substitution 3
