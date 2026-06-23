@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489400,36,,1548,213980,N. Al Rashdan,15286.0,Goal,Normal Goal
+1489400,44,,1532,129047,R. Zerrouki,,Card,Yellow Card
+1489400,46,,1532,129047,R. Zerrouki,409.0,subst,Substitution 1
+1489400,46,,1532,4399,H. Boudaoui,292924.0,subst,Substitution 2
+1489400,64,,1548,542822,H. Abu Dahab,,Card,Yellow Card
+1489400,69,,1532,292924,N. Benbouali,635.0,Goal,Normal Goal
+1489400,76,,1532,635,R. Mahrez,326067.0,subst,Substitution 3
+1489400,76,,1548,123530,M. Al Mardi,568556.0,subst,Substitution 1
+1489400,82,,1532,85041,A. Gouiri,,Goal,Normal Goal
+1489400,84,,1548,15286,M. Tamari,575283.0,subst,Substitution 2
+1489400,85,,1548,310785,M. Abu Taha,542710.0,subst,Substitution 3
+1489400,85,,1532,21138,R. Ait-Nouri,271539.0,subst,Substitution 4
+1489400,86,,1532,85041,A. Gouiri,4561.0,subst,Substitution 5
+1489400,90,1.0,1548,542822,H. Abu Dahab,72140.0,subst,Substitution 4
+1489400,90,2.0,1548,164026,A. Olwan,72142.0,subst,Substitution 5
