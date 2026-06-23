@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539017,6,,1567,47792,Amir Al-Ammari,,Card,Yellow Card
+1539017,14,,2,278,Kylian Mbappé,19617.0,Goal,Normal Goal
+1539017,26,,1567,49451,Aymen Hussein,299813.0,subst,Substitution 1
+1539017,28,,1567,299813,Ali Al-Hamadi,,Var,
+1539017,54,,2,278,Kylian Mbappé,153.0,Goal,Normal Goal
+1539017,60,,1567,296373,Zaid Tahseen,42261.0,subst,Substitution 2
+1539017,60,,1567,626479,Zaid Ismael,282065.0,subst,Substitution 3
+1539017,66,,2,153,Ousmane Dembélé,19617.0,Goal,Normal Goal
+1539017,68,,2,153,Ousmane Dembélé,343027.0,subst,Substitution 1
+1539017,68,,2,19617,Michael Olise,156477.0,subst,Substitution 2
+1539017,68,,1567,47792,Amir Al-Ammari,48129.0,subst,Substitution 4
+1539017,69,,1567,140747,Ibrahim Bayesh,265448.0,subst,Substitution 5
+1539017,83,,2,161904,Bradley Barcola,274300.0,subst,Substitution 3
+1539017,83,,2,1257,Jules Koundé,161907.0,subst,Substitution 4
+1539017,91,,2,278,Kylian Mbappé,21509.0,subst,Substitution 5

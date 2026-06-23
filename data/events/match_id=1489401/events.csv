@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489401,13,,1090,24845,J. Ryerson,39362.0,subst,Substitution 1
+1489401,43,,1090,39362,M. Pedersen,,Goal,Normal Goal
+1489401,46,,1090,39043,F. Aursnes,39064.0,subst,Substitution 2
+1489401,48,,1090,1100,E. Haaland,37127.0,Goal,Normal Goal
+1489401,53,,13,2218,I. Sarr,304.0,Goal,Normal Goal
+1489401,54,,13,409303,M. Diouf,158121.0,subst,Substitution 1
+1489401,54,,13,20696,P. Gueye,446249.0,subst,Substitution 2
+1489401,58,,1090,1100,E. Haaland,39064.0,Goal,Normal Goal
+1489401,63,,13,2986,E. Mendy,119853.0,subst,Substitution 3
+1489401,63,,13,374058,L. Camara,41552.0,subst,Substitution 4
+1489401,71,,1090,314511,A. Nusa,301528.0,subst,Substitution 3
+1489401,72,,13,318,K. Koulibaly,237129.0,subst,Substitution 5
+1489401,84,,1090,39254,T. Heggem,18967.0,subst,Substitution 4
+1489401,84,,1090,8492,A. Sorloth,278133.0,subst,Substitution 5
+1489401,90,3.0,13,2218,I. Sarr,283058.0,Goal,Normal Goal
