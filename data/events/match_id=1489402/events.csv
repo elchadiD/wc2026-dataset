@@ -1,0 +1,12 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489402,41,,10,2937,Declan Rice,,Card,Yellow Card
+1489402,60,,1504,47294,Iñaki Williams,,Card,Yellow Card
+1489402,65,,10,138787,Anthony Gordon,1460.0,subst,Substitution 1
+1489402,66,,10,19235,Djed Spence,307123.0,subst,Substitution 2
+1489402,66,,1504,47294,Iñaki Williams,303467.0,subst,Substitution 1
+1489402,67,,1504,3428,Jordan Ayew,410016.0,subst,Substitution 2
+1489402,73,,10,129718,Jude Bellingham,19170.0,subst,Substitution 3
+1489402,74,,10,138908,Elliot Anderson,19586.0,subst,Substitution 4
+1489402,83,,10,136723,Noni Madueke,909.0,subst,Substitution 5
+1489402,87,,1504,527120,Marvin Senaya,404172.0,subst,Substitution 3
+1489402,95,,1504,410016,Prince Kwabena Adu,21996.0,subst,Substitution 4
