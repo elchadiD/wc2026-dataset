@@ -23,6 +23,14 @@ No per-player xG: API-Football does not expose it at player level.
 `player_tournament`, `team_tournament` — cumulative, recomputed each matchday, written under `data/_latest/`.
 `team_tournament` includes the xG-derived columns `xg_for`, `xg_against`, `finishing`, `xg_diff` (coverage-dependent, `NaN` when no covered match).
 
+## Per-matchday snapshots (see METRICS.md)
+`player_tournament`, `team_tournament` — same schema as the cumulative tables, but frozen to a single matchday's fixtures, written under `data/by_matchday/matchday_NN/`. Each row carries a `matchday` column.
+
+## Index (lookup)
+`fixtures_index.csv` / `.parquet` — one row per match (`fixture_id`, `label`, `date`, `round`, `home_team`, `away_team`), sorted by date, written under `data/_index/`. Use it to quickly find a match and its `fixture_id`.
+
+
+
 ## Changelog
 - **0.4.0** — Added `data/_index/fixtures_index.csv`, a single lookup file listing every match (fixture_id, label, date, round) so you can quickly find a match and its fixture_id.
 - **0.3.0** — Added per-matchday snapshots (data/by_matchday/matchday_NN/) that freeze team_tournament and player_tournament to each matchday's fixtures, with a matchday column.
