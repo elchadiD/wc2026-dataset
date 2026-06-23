@@ -1,0 +1,19 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489404,6,,27,874,C. Ronaldo,855.0,Goal,Normal Goal
+1489404,14,,1568,53835,O. Khamrobekov,,Card,Yellow Card
+1489404,17,,27,263482,N. Mendes,,Goal,Normal Goal
+1489404,29,,1568,73520,A. Ganiev,,Var,Goal Disallowed - Foul
+1489404,39,,27,874,C. Ronaldo,1485.0,Goal,Normal Goal
+1489404,46,,27,855,J. Cancelo,130.0,subst,Substitution 1
+1489404,46,,27,1864,P. Neto,161585.0,subst,Substitution 2
+1489404,46,,1568,73514,S. Nasrullaev,72122.0,subst,Substitution 1
+1489404,46,,1568,53835,O. Khamrobekov,73522.0,subst,Substitution 2
+1489404,60,,27,73507,A. Nematov,,Goal,Own Goal
+1489404,64,,27,583,Joao Felix,41112.0,subst,Substitution 3
+1489404,68,,27,336671,R. Veiga,,Card,Yellow Card
+1489404,73,,1568,263676,A. Fayzullaev,72128.0,subst,Substitution 3
+1489404,76,,27,335051,J. Neves,636.0,subst,Substitution 4
+1489404,83,,27,128384,Vitinha,22236.0,subst,Substitution 5
+1489404,87,,27,22236,R. Leao,,Goal,Normal Goal
+1489404,90,2.0,1568,416964,B. Karimov,312231.0,subst,Substitution 4
+1489404,90,2.0,1568,50272,O. Shukurov,363723.0,subst,Substitution 5
