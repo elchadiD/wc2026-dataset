@@ -24,5 +24,7 @@ No per-player xG: API-Football does not expose it at player level.
 `team_tournament` includes the xG-derived columns `xg_for`, `xg_against`, `finishing`, `xg_diff` (coverage-dependent, `NaN` when no covered match).
 
 ## Changelog
-- **0.2.0** — added `xg` to `team_match`; added `xg_for`, `xg_against`, `finishing`, `xg_diff` to `team_tournament`. xG is now ingested from `/fixtures/statistics` where coverage provides it (reverses the earlier "no xG" limitation).
+- **0.4.0** — Added `data/_index/fixtures_index.csv`, a single lookup file listing every match (fixture_id, label, date, round) so you can quickly find a match and its fixture_id.
+- **0.3.0** — Added per-matchday snapshots (data/by_matchday/matchday_NN/) that freeze team_tournament and player_tournament to each matchday's fixtures, with a matchday column.
+- **0.2.0** — added `xg` to `team_match`; added `xg_for`, `xg_against`, `finishing`, `xg_diff` to `team_tournament`. xG is now ingested from `/fixtures/statistics` where coverage provides it.
 - **0.1.0** — initial schema.
