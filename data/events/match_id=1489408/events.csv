@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489408,32,,5529,2001,C. Larin,,Card,Yellow Card
+1489408,32,,15,1464,G. Xhaka,,Card,Yellow Card
+1489408,46,,15,48471,R. Vargas,406244.0,Goal,Normal Goal
+1489408,57,,15,406244,J. Manzambi,421.0,Goal,Normal Goal
+1489408,58,,5529,50788,M. Choiniere,35570.0,subst,Substitution 1
+1489408,58,,5529,362145,A. Ahmed,44798.0,subst,Substitution 2
+1489408,58,,5529,2001,C. Larin,351587.0,subst,Substitution 3
+1489408,74,,15,349344,L. Jaquez,48378.0,subst,Substitution 1
+1489408,74,,15,957,D. Sow,951.0,subst,Substitution 2
+1489408,75,,5529,51016,T. Buchanan,313353.0,subst,Substitution 4
+1489408,76,,5529,313353,P. David,294824.0,Goal,Normal Goal
+1489408,80,,15,48471,R. Vargas,48648.0,subst,Substitution 3
+1489408,83,,5529,50816,R. Laryea,50826.0,subst,Substitution 5
+1489408,85,,15,406244,J. Manzambi,952.0,subst,Substitution 4
+1489408,85,,15,421,B. Embolo,48497.0,subst,Substitution 5
+1489408,87,,5529,44798,L. Millar,,Card,Yellow Card

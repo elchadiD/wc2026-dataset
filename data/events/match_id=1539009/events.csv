@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539009,29,,1113,395559,K. Alajbegovic,162222.0,Goal,Normal Goal
+1539009,34,,1113,42207,M. Abunada,,Goal,Own Goal
+1539009,42,,1569,2545,H. Al Haydos,42075.0,Goal,Normal Goal
+1539009,46,,1113,1324,I. Sunjic,264094.0,subst,Substitution 1
+1539009,46,,1113,409670,A. Malic,322101.0,subst,Substitution 2
+1539009,46,,1569,200981,J. Gaber,2533.0,subst,Substitution 1
+1539009,56,,1569,2545,H. Al Haydos,42286.0,subst,Substitution 2
+1539009,63,,1113,1741,N. Katic,53517.0,subst,Substitution 3
+1539009,64,,1113,790,E. Dzeko,340173.0,subst,Substitution 4
+1539009,72,,1569,2537,K. Boudiaf,2543.0,subst,Substitution 3
+1539009,78,,1569,2539,A. Fathi,,Card,Yellow Card
+1539009,79,,1569,42075,Edmilson Junior,2542.0,subst,Substitution 4
+1539009,79,,1569,2539,A. Fathi,283174.0,subst,Substitution 5
+1539009,80,,1113,340173,E. Mahmic,53517.0,Goal,Normal Goal
+1539009,82,,1113,395559,K. Alajbegovic,25129.0,subst,Substitution 5
+1539009,82,,1113,340173,E. Mahmic,,Card,Yellow Card
