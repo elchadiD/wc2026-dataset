@@ -1,0 +1,13 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489403,46,,3,66055,P. Musa,46746.0,subst,Substitution 1
+1489403,46,,3,129033,J. Gvardiol,726.0,subst,Substitution 2
+1489403,54,,3,46746,A. Budimir,125171.0,Goal,Normal Goal
+1489403,61,,11,46855,Y. Barcenas,,Card,Yellow Card
+1489403,72,,3,260865,M. Pasalic,7332.0,subst,Substitution 3
+1489403,72,,3,2291,M. Kovacic,348205.0,subst,Substitution 4
+1489403,77,,11,57667,J. Ramos,51648.0,subst,Substitution 1
+1489403,81,,3,754,L. Modric,2763.0,subst,Substitution 5
+1489403,83,,11,2983,J. Fajardo,292396.0,subst,Substitution 2
+1489403,90,,11,2975,C. Blackman,2970.0,subst,Substitution 3
+1489403,90,,11,46855,Y. Barcenas,57910.0,subst,Substitution 4
+1489403,90,2.0,3,348205,P. Sucic,,Card,Yellow Card
