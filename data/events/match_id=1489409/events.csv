@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489409,7,,1501,3246,Nicolas Pépé,513776.0,Goal,Normal Goal
+1489409,35,,1501,3246,Nicolas Pépé,,Card,Yellow Card
+1489409,45,,1501,157997,Amad Diallo,474591.0,subst,Substitution 1
+1489409,61,,5530,309763,Livano Comenencia,163220.0,subst,Substitution 1
+1489409,64,,1501,3246,Nicolas Pépé,22149.0,Goal,Normal Goal
+1489409,67,,1501,275651,Ange-Yoan Bonny,334429.0,subst,Substitution 2
+1489409,67,,1501,3246,Nicolas Pépé,162707.0,subst,Substitution 3
+1489409,67,,1501,513776,Yan Diomande,387643.0,subst,Substitution 4
+1489409,75,,5530,19047,Juninho Bacuna,,Card,Yellow Card
+1489409,77,,5530,36857,Jurien Gaari,38708.0,subst,Substitution 2
+1489409,77,,5530,353808,Deveron Fonville,406846.0,subst,Substitution 3
+1489409,77,,1501,1642,Franck Kessié,3243.0,subst,Substitution 5
+1489409,83,,5530,38708,Gervane Kastaneer,,Card,Yellow Card
+1489409,90,,5530,706,Joshua Brenet,194645.0,subst,Substitution 4
+1489409,90,,5530,18981,Jürgen Locadia,37272.0,subst,Substitution 5
