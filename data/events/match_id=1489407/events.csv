@@ -1,0 +1,12 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489407,46,,17,24888,Hwang Hee-Chan,186.0,subst,Substitution 1
+1489407,46,,17,2909,Paik Seung-Ho,34168.0,subst,Substitution 2
+1489407,46,,17,237220,Lee Tae-Seok,280358.0,subst,Substitution 3
+1489407,62,,1531,179893,O. Appollis,295977.0,subst,Substitution 1
+1489407,63,,1531,354831,T. Maseko,295977.0,Goal,Normal Goal
+1489407,66,,17,2897,Kim Min-Jae,99211.0,subst,Substitution 4
+1489407,73,,1531,46334,A. Modiba,,Card,Yellow Card
+1489407,74,,17,34710,Oh Hyeon-Gyu,34211.0,subst,Substitution 5
+1489407,75,,1531,354831,T. Maseko,127429.0,subst,Substitution 2
+1489407,79,,17,34211,Cho Gue-Sung,,Card,Yellow Card
+1489407,80,,1531,414149,R. Mofokeng,268710.0,subst,Substitution 3

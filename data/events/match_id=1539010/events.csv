@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539010,55,,16,390002,M. Chavez Garcia,35970.0,Goal,Normal Goal
+1539010,56,,770,290212,D. Visinsky,66353.0,subst,Substitution 1
+1539010,61,,16,35532,J. Quinones,2878.0,Goal,Normal Goal
+1539010,63,,16,36088,G. Martinez,94562.0,subst,Substitution 1
+1539010,63,,16,35970,L. Romo,313383.0,subst,Substitution 2
+1539010,64,,16,2869,E. Alvarez,,Card,Yellow Card
+1539010,64,,770,66019,A. Hlozek,794.0,subst,Substitution 2
+1539010,64,,770,2252,T. Holes,1243.0,subst,Substitution 3
+1539010,72,,16,482605,G. Mora,750.0,subst,Substitution 3
+1539010,78,,16,270774,R. Rangel,2098.0,subst,Substitution 4
+1539010,78,,16,390002,M. Chavez Garcia,2881.0,subst,Substitution 5
+1539010,87,,770,162194,L. Cerv,818.0,subst,Substitution 4
+1539010,87,,770,1243,T. Soucek,386837.0,subst,Substitution 5
+1539010,90,4.0,16,750,A. Fidalgo,2879.0,Goal,Normal Goal
