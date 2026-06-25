@@ -1,0 +1,18 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489406,7,,6,762,Vinicius Junior,407806.0,Goal,Normal Goal
+1489406,22,,6,762,Vinicius Junior,,Var,Goal Disallowed - Foul
+1489406,45,3.0,6,762,Vinicius Junior,10135.0,Goal,Normal Goal
+1489406,46,,1108,289,A. Robertson,1117.0,subst,Substitution 1
+1489406,60,,6,1165,M. Cunha,10135.0,Goal,Normal Goal
+1489406,62,,6,618,Danilo,,Card,Yellow Card
+1489406,65,,6,747,Casemiro,299.0,subst,Substitution 1
+1489406,66,,6,1646,Lucas Paqueta,127769.0,subst,Substitution 2
+1489406,76,,6,1165,M. Cunha,276.0,subst,Substitution 3
+1489406,82,,1108,138417,N. Patterson,1115.0,subst,Substitution 2
+1489406,82,,1108,343576,B. Gannon-Doak,1125.0,subst,Substitution 3
+1489406,82,,6,24866,Douglas Santos,860.0,subst,Substitution 4
+1489406,82,,6,407806,Rayan,377122.0,subst,Substitution 5
+1489406,82,,6,299,Fabinho,,Card,Yellow Card
+1489406,89,,1108,1125,R. Christie,,Card,Yellow Card
+1489406,90,1.0,1108,45175,L. Shankland,19524.0,subst,Substitution 4
+1489406,90,1.0,1108,19191,J. McGinn,433272.0,subst,Substitution 5

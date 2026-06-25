@@ -1,0 +1,20 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489405,10,,2386,2701,Bono,,Goal,Own Goal
+1489405,39,,31,9,A. Hakimi,,Goal,Normal Goal
+1489405,43,,2386,84087,W. Isidor,20655.0,Goal,Normal Goal
+1489405,45,1.0,31,161897,I. Saibari,9.0,Goal,Normal Goal
+1489405,67,,2386,162733,R. Providence,45020.0,subst,Substitution 1
+1489405,67,,2386,84087,W. Isidor,128766.0,subst,Substitution 2
+1489405,70,,31,744,B. Diaz,129678.0,subst,Substitution 1
+1489405,70,,31,161897,I. Saibari,36579.0,subst,Substitution 2
+1489405,70,,31,2722,A. El Kaabi,369544.0,subst,Substitution 3
+1489405,78,,31,36579,S. Rahimi,278898.0,Goal,Normal Goal
+1489405,79,,2386,45020,D. Nazon,,Card,Yellow Card
+1489405,79,,2386,87789,J. Placide,,Card,Yellow Card
+1489405,80,,2386,20655,J. Duverne,20850.0,subst,Substitution 3
+1489405,80,,2386,338367,D. Jean Jacques,194242.0,subst,Substitution 4
+1489405,83,,31,162451,A. Salah-Eddine,545.0,subst,Substitution 4
+1489405,83,,31,277003,N. El Aynaoui,415431.0,subst,Substitution 5
+1489405,83,,2386,21613,L. Joseph,8601.0,subst,Substitution 5
+1489405,89,,31,369544,G. Yassine,36579.0,Goal,Normal Goal
+1489405,90,4.0,2386,174915,J. Casimir,,Card,Yellow Card
