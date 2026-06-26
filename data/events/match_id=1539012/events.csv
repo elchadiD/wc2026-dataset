@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539012,3,,2384,50737,A. Trusty,201713.0,Goal,Normal Goal
+1539012,10,,777,291964,A. Guler,63274.0,Goal,Normal Goal
+1539012,19,,2384,201713,S. Berhalter,,Card,Yellow Card
+1539012,31,,777,63274,B. Yilmaz,37155.0,Goal,Normal Goal
+1539012,49,,2384,201713,S. Berhalter,,Goal,Normal Goal
+1539012,58,,2384,1138,T. Weah,17.0,subst,Substitution 1
+1539012,76,,2384,161921,G. Reyna,38735.0,subst,Substitution 2
+1539012,77,,2384,50739,B. Aaronson,35885.0,subst,Substitution 3
+1539012,77,,2384,50852,J. Scally,355994.0,subst,Substitution 4
+1539012,84,,777,22222,Z. Celik,18776.0,subst,Substitution 1
+1539012,84,,777,339883,K. Yildiz,339887.0,subst,Substitution 2
+1539012,86,,2384,415,W. McKennie,162037.0,subst,Substitution 5
+1539012,88,,777,37155,O. Kokcu,25448.0,subst,Substitution 3
+1539012,90,2.0,777,134590,O. Aydin,1719.0,subst,Substitution 4
+1539012,90,2.0,777,63274,B. Yilmaz,49857.0,subst,Substitution 5
+1539012,90,8.0,777,25448,K. Ayhan,,Goal,Normal Goal

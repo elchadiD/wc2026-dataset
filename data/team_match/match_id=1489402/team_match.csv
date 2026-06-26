@@ -1,3 +1,3 @@
 fixture_id,date,team_id,team_name,opponent_id,is_home,goals_for,goals_against,outcome,possession_pct,passes_total,passes_accurate,passes_pct,shots_total,shots_on_target,shots_off_target,shots_blocked,shots_inside_box,shots_outside_box,fouls,corners,offsides,yellow_cards,red_cards,gk_saves,xg,is_complete
-1489402,2026-06-23 20:00:00+00:00,10,England,1504,True,0,0,D,79.0,,,,19.0,3.0,10.0,6.0,,,14.0,9.0,2.0,1.0,0.0,0.0,,False
-1489402,2026-06-23 20:00:00+00:00,1504,Ghana,10,False,0,0,D,21.0,,,,2.0,1.0,0.0,1.0,,,24.0,2.0,2.0,1.0,0.0,3.0,,False
+1489402,2026-06-23 20:00:00+00:00,10,England,1504,True,0,0,D,79.0,633.0,586.0,93.0,19.0,3.0,10.0,6.0,14.0,5.0,14.0,9.0,2.0,1.0,,0.0,1.36,True
+1489402,2026-06-23 20:00:00+00:00,1504,Ghana,10,False,0,0,D,21.0,172.0,127.0,74.0,2.0,1.0,0.0,1.0,2.0,0.0,24.0,2.0,2.0,1.0,,3.0,0.17,True

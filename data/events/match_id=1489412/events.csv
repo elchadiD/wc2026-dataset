@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489412,3,,1118,21587,E. Skhiri,,Goal,Own Goal
+1489412,7,,1118,38750,B. Brobbey,290.0,Goal,Normal Goal
+1489412,54,,28,344862,H. Mastouri,180560.0,Goal,Normal Goal
+1489412,62,,1118,38695,J. P. van Hecke,36902.0,Goal,Normal Goal
+1489412,67,,28,25300,R. Khedira,67195.0,subst,Substitution 1
+1489412,68,,28,199310,A. Slimane,42012.0,subst,Substitution 2
+1489412,68,,28,135059,M. Ben Hamida,49469.0,subst,Substitution 3
+1489412,72,,1118,538,F. de Jong,36899.0,subst,Substitution 1
+1489412,72,,1118,36902,T. Reijnders,792.0,subst,Substitution 2
+1489412,72,,1118,249,D. Malen,37724.0,subst,Substitution 3
+1489412,75,,28,310196,I. Gharbi,2962.0,subst,Substitution 4
+1489412,77,,1118,38750,B. Brobbey,667.0,subst,Substitution 4
+1489412,84,,1118,247,C. Gakpo,544.0,subst,Substitution 5
+1489412,90,,28,344862,H. Mastouri,57518.0,subst,Substitution 5

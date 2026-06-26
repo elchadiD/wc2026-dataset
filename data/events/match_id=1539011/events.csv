@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539011,32,,5,137976,I. Hien,,Card,Yellow Card
+1539011,37,,5,137976,I. Hien,347316.0,subst,Substitution 1
+1539011,39,,12,38114,K. Itakura,32954.0,subst,Substitution 1
+1539011,56,,12,33224,D. Maeda,2598.0,Goal,Normal Goal
+1539011,62,,5,153430,A. Elanga,18979.0,Goal,Normal Goal
+1539011,66,,12,72155,A. Ueda,33289.0,subst,Substitution 2
+1539011,67,,12,2598,R. Doan,1942.0,subst,Substitution 3
+1539011,75,,5,47696,A. Bernhardsson,198654.0,subst,Substitution 2
+1539011,75,,5,226765,E. Stroud,2860.0,subst,Substitution 3
+1539011,75,,12,33321,K. Nakamura,440.0,subst,Substitution 4
+1539011,75,,12,33165,A. Seko,32858.0,subst,Substitution 5
+1539011,77,,12,32954,S. Taniguchi,,Card,Yellow Card
+1539011,85,,5,18979,V. Gyokeres,,Card,Yellow Card
+1539011,87,,5,889,V. Lindelof,47988.0,subst,Substitution 4
+1539011,88,,5,47969,G. Gudmundsson,48002.0,subst,Substitution 5

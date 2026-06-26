@@ -1,0 +1,11 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489411,46,,2380,425020,A. Maidana,106485.0,subst,Substitution 1
+1489411,46,,20,2749,J. Irvine,,Card,Yellow Card
+1489411,58,,20,342035,C. Volpato,38123.0,subst,Substitution 1
+1489411,67,,2380,6483,G. Avalos,95460.0,subst,Substitution 2
+1489411,77,,2380,278370,D. Gomez,,Card,Yellow Card
+1489411,84,,2380,6168,O. Alderete,70732.0,subst,Substitution 3
+1489411,84,,20,2749,J. Irvine,441269.0,subst,Substitution 2
+1489411,84,,20,338014,N. Irankunda,296645.0,subst,Substitution 3
+1489411,90,2.0,2380,278370,D. Gomez,195107.0,subst,Substitution 4
+1489411,90,2.0,2380,305832,M. Galarza,2499.0,subst,Substitution 5
