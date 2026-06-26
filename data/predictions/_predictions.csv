@@ -70,3 +70,6 @@ fixture_id,captured_at,home_team_id,home_team,away_team_id,away_team,pct_home,pc
 1539017,2026-06-12T15:25:16+00:00,2,France,1567,Iraq,33,33,33,,No predictions available,0%,0%
 1539074,2026-06-12T15:25:19+00:00,13,Senegal,1567,Iraq,33,33,33,,No predictions available,0%,0%
 1561329,2026-06-25T09:38:15+00:00,1531,South Africa,5529,Canada,35,35,30,1531.0,Double chance : South Africa or draw,44%,44%
+1562344,2026-06-26T09:24:26+00:00,6,Brazil,12,Japan,45,45,10,6.0,Double chance : Brazil or draw,78%,56%
+1562345,2026-06-26T09:24:27+00:00,1118,Netherlands,31,Morocco,45,45,10,1118.0,Double chance : Netherlands or draw,78%,78%
+1562586,2026-06-26T09:24:27+00:00,2384,USA,1113,Bosnia & Herzegovina,50,50,0,2384.0,Combo Winner : USA and +1.5 goals,67%,44%
