@@ -1,0 +1,21 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539074,4,,13,327631,H. Diarra,8450.0,Goal,Normal Goal
+1539074,13,,1567,42261,R. Sulaka,,Card,Red Card
+1539074,16,,1567,229112,A. Qasem,295394.0,subst,Substitution 1
+1539074,18,,13,8450,A. Seck,,Card,Yellow Card
+1539074,46,,1567,197933,A. Basil,53886.0,subst,Substitution 2
+1539074,56,,13,2218,I. Sarr,374058.0,Goal,Normal Goal
+1539074,57,,13,327631,H. Diarra,20696.0,subst,Substitution 1
+1539074,57,,13,446249,I. Mbaye,18592.0,subst,Substitution 2
+1539074,57,,13,374058,L. Camara,283058.0,subst,Substitution 3
+1539074,58,,1567,542644,A. Jasim,292253.0,subst,Substitution 3
+1539074,58,,1567,299813,A. Al Hamadi,163854.0,subst,Substitution 4
+1539074,58,,13,8450,A. Seck,41552.0,subst,Substitution 4
+1539074,59,,13,20696,P. Gueye,2218.0,Goal,Normal Goal
+1539074,67,,1567,284295,Z. Iqbal,48025.0,subst,Substitution 5
+1539074,71,,13,20696,P. Gueye,18592.0,Goal,Normal Goal
+1539074,75,,1567,47792,A. Al Ammari,,Card,Yellow Card
+1539074,81,,13,2218,I. Sarr,400948.0,subst,Substitution 5
+1539074,81,,13,20696,P. Gueye,,Card,Yellow Card
+1539074,82,,13,18592,I. Ndiaye,20696.0,Goal,Normal Goal
+1539074,90,,1567,271444,M. Doski,,Card,Yellow Card

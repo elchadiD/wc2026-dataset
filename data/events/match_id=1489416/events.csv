@@ -1,0 +1,19 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489416,7,,2,153,O. Dembele,278.0,Goal,Normal Goal
+1489416,10,,1090,39064,P. Berg,,Card,Yellow Card
+1489416,20,,2,153,O. Dembele,278.0,Goal,Normal Goal
+1489416,21,,1090,277930,T. Aasgaard,301528.0,Goal,Normal Goal
+1489416,32,,2,153,O. Dembele,1271.0,Goal,Normal Goal
+1489416,46,,1090,39058,F. Bjorkan,39362.0,subst,Substitution 1
+1489416,46,,1090,39143,K. Thorstvedt,36980.0,subst,Substitution 2
+1489416,50,,1090,2032,J. Larsen,2032.0,Goal,Missed Penalty
+1489416,65,,2,19617,M. Olise,156477.0,subst,Substitution 1
+1489416,65,,2,153,O. Dembele,161904.0,subst,Substitution 2
+1489416,66,,1090,180937,H. Falchener,265444.0,subst,Substitution 3
+1489416,74,,2,1271,A. Tchouameni,,Card,Yellow Card
+1489416,76,,2,1149,D. Upamecano,1145.0,subst,Substitution 3
+1489416,83,,1090,278133,O. Bobb,314511.0,subst,Substitution 4
+1489416,83,,1090,301528,A. Schjelderup,39073.0,subst,Substitution 5
+1489416,87,,2,1257,J. Kounde,161907.0,subst,Substitution 4
+1489416,87,,2,278,K. Mbappe,25927.0,subst,Substitution 5
+1489416,90,4.0,2,343027,D. Doue,161904.0,Goal,Normal Goal
