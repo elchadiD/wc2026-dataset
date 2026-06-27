@@ -1,0 +1,20 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489414,5,,32,69196,M. Saber,2664.0,Goal,Normal Goal
+1489414,11,,22,42315,M. Taremi,42315.0,Goal,Missed Penalty
+1489414,14,,22,2691,R. Rezaeian,,Goal,Normal Goal
+1489414,14,,32,196343,M. Abdelmonem,16804.0,subst,Substitution 1
+1489414,19,,22,2687,H. Kanaani,,Card,Yellow Card
+1489414,20,,32,69196,M. Saber,,Card,Yellow Card
+1489414,42,,32,16804,Y. Ibrahim,,Card,Yellow Card
+1489414,43,,22,533035,A. Nemati,,Card,Yellow Card
+1489414,46,,22,2687,H. Kanaani,136880.0,subst,Substitution 1
+1489414,46,,32,17269,E. Ashour,81573.0,subst,Substitution 2
+1489414,46,,32,69196,M. Saber,190575.0,subst,Substitution 3
+1489414,57,,32,306,M. Salah,16871.0,subst,Substitution 4
+1489414,67,,22,2699,S. Ghoddos,89982.0,subst,Substitution 2
+1489414,76,,32,395075,M. Ziko,550547.0,subst,Substitution 5
+1489414,79,,22,19614,S. Ezatolahi,,Card,Yellow Card
+1489414,90,1.0,22,134217,M. Mohebi,2700.0,subst,Substitution 3
+1489414,90,2.0,32,16841,M. Lasheen,,Card,Yellow Card
+1489414,90,3.0,22,29704,S. Khalilzadeh,,Var,Goal Disallowed - offside
+1489414,90,4.0,22,29704,S. Khalilzadeh,,Card,Yellow Card

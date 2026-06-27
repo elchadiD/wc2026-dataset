@@ -1,0 +1,19 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489415,28,,1,1946,L. Trossard,,Goal,Normal Goal
+1489415,46,,4673,6935,S. Singh,158688.0,subst,Substitution 1
+1489415,46,,4673,242,R. Thomas,179856.0,subst,Substitution 2
+1489415,46,,4673,179862,M. Stamenic,,Card,Yellow Card
+1489415,50,,1,1946,L. Trossard,78.0,Goal,Normal Goal
+1489415,56,,4673,94333,E. Just,,Card,Yellow Card
+1489415,56,,1,1422,J. Doku,340077.0,subst,Substitution 1
+1489415,64,,4673,94346,T. Payne,51149.0,subst,Substitution 3
+1489415,64,,4673,94541,J. Bell,94322.0,subst,Substitution 4
+1489415,66,,1,629,K. De Bruyne,,Goal,Normal Goal
+1489415,72,,1,1946,L. Trossard,1417.0,subst,Substitution 2
+1489415,72,,1,629,K. De Bruyne,162714.0,subst,Substitution 3
+1489415,79,,4673,6931,L. Cacace,94405.0,subst,Substitution 5
+1489415,84,,4673,94333,E. Just,,Goal,Normal Goal
+1489415,85,,1,147859,C. De Ketelaere,907.0,subst,Substitution 4
+1489415,85,,1,2926,Y. Tielemans,2120.0,subst,Substitution 5
+1489415,86,,1,907,R. Lukaku,2120.0,Goal,Normal Goal
+1489415,90,4.0,1,1417,A. Saelemaekers,907.0,Goal,Normal Goal
