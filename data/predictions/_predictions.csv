@@ -73,3 +73,8 @@ fixture_id,captured_at,home_team_id,home_team,away_team_id,away_team,pct_home,pc
 1562344,2026-06-26T09:24:26+00:00,6,Brazil,12,Japan,45,45,10,6.0,Double chance : Brazil or draw,78%,56%
 1562345,2026-06-26T09:24:27+00:00,1118,Netherlands,31,Morocco,45,45,10,1118.0,Double chance : Netherlands or draw,78%,78%
 1562586,2026-06-26T09:24:27+00:00,2384,USA,1113,Bosnia & Herzegovina,50,50,0,2384.0,Combo Winner : USA and +1.5 goals,67%,44%
+1564789,2026-06-27T08:47:44+00:00,1501,Ivory Coast,1090,Norway,45,45,10,1501.0,Double chance : Ivory Coast or draw,67%,67%
+1565176,2026-06-27T08:47:44+00:00,25,Germany,2380,Paraguay,45,45,10,25.0,Combo Winner : Germany and +1.5 goals,67%,44%
+1565177,2026-06-27T08:47:44+00:00,2,France,5,Sweden,45,45,10,2.0,Combo Winner : France and +1.5 goals,100%,44%
+1565178,2026-06-27T08:47:44+00:00,20,Australia,32,Egypt,45,45,10,20.0,Combo Double chance : Australia or draw and -3.5 goals,44%,56%
+1565179,2026-06-27T08:47:44+00:00,26,Argentina,1533,Cape Verde Islands,50,50,0,26.0,Combo Double chance : Argentina or draw and -3.5 goals,100%,33%
