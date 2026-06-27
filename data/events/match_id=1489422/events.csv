@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489422,46,,11,57910,T. Rodriguez,2983.0,subst,Substitution 1
+1489422,53,,11,2983,J. Fajardo,,Card,Yellow Card
+1489422,60,,10,158698,J. Quansah,,Card,Yellow Card
+1489422,62,,10,129718,J. Bellingham,1460.0,Goal,Normal Goal
+1489422,63,,10,158698,J. Quansah,19235.0,subst,Substitution 1
+1489422,63,,10,1460,B. Saka,136723.0,subst,Substitution 2
+1489422,67,,10,184,H. Kane,129718.0,Goal,Normal Goal
+1489422,71,,11,46855,Y. Barcenas,96615.0,subst,Substitution 2
+1489422,71,,11,2979,J. Rodriguez,292396.0,subst,Substitution 3
+1489422,71,,10,129718,J. Bellingham,19586.0,subst,Substitution 3
+1489422,84,,11,7197,A. Andrade,,Card,Yellow Card
+1489422,84,,10,138908,E. Anderson,292.0,subst,Substitution 4
+1489422,84,,10,184,H. Kane,19366.0,subst,Substitution 5
+1489422,88,,11,71230,C. Harvey,2978.0,subst,Substitution 4
+1489422,88,,11,57803,J. Gutierrez,2970.0,subst,Substitution 5

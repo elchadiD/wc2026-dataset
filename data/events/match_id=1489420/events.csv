@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489420,31,,3,348205,P. Sucic,2291.0,Goal,Normal Goal
+1489420,46,,1504,369425,J. Adjetey,404172.0,subst,Substitution 1
+1489420,46,,1504,21010,E. Owusu,303467.0,subst,Substitution 2
+1489420,66,,3,46746,A. Budimir,202696.0,subst,Substitution 1
+1489420,68,,3,207,I. Perisic,,Card,Yellow Card
+1489420,71,,1504,3428,J. Ayew,82090.0,subst,Substitution 3
+1489420,71,,1504,199837,K. Sulemana,350856.0,subst,Substitution 4
+1489420,73,,1504,25341,D. Luckassen,350856.0,Goal,Normal Goal
+1489420,78,,3,2291,M. Kovacic,2763.0,subst,Substitution 2
+1489420,83,,3,842,N. Vlasic,754.0,Goal,Normal Goal
+1489420,85,,1504,3608,K. Sibo,475575.0,subst,Substitution 5
+1489420,88,,3,295026,M. Baturina,260865.0,subst,Substitution 3
+1489420,88,,3,842,N. Vlasic,129033.0,subst,Substitution 4
+1489420,90,4.0,1504,404172,K. Peprah,,Card,Yellow Card
