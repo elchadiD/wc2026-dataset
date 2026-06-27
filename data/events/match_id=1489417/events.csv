@@ -1,0 +1,16 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489417,42,,9,182219,A. Baena,753.0,Goal,Normal Goal
+1489417,45,,7,51494,M. Ugarte,5995.0,subst,Substitution 1
+1489417,46,,7,429,F. Muslera,50077.0,subst,Substitution 2
+1489417,46,,9,182219,A. Baena,,Card,Yellow Card
+1489417,54,,7,162891,J. Sanabria,,Card,Yellow Card
+1489417,57,,7,756,F. Valverde,51530.0,subst,Substitution 3
+1489417,58,,7,1290,G. Varela,,Card,Yellow Card
+1489417,60,,9,133609,Pedri,328.0,subst,Substitution 1
+1489417,60,,9,47311,M. Merino,1323.0,subst,Substitution 2
+1489417,66,,9,182219,A. Baena,184226.0,subst,Substitution 3
+1489417,70,,7,162891,J. Sanabria,51618.0,subst,Substitution 4
+1489417,76,,9,386828,Lamine Yamal,183799.0,subst,Substitution 4
+1489417,76,,9,47323,M. Oyarzabal,931.0,subst,Substitution 5
+1489417,90,3.0,7,5995,N. de la Cruz,,Card,Yellow Card
+1489417,90,5.0,7,51603,A. Canobbio,,Card,Red Card

@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489413,4,,23,44594,S. Abdulhamid,,Card,Yellow Card
+1489413,8,,1533,332056,W. Pina,,Card,Yellow Card
+1489413,33,,23,44362,H. Tambakti,44507.0,subst,Substitution 1
+1489413,46,,23,44315,A. Al Khaibari,306380.0,subst,Substitution 2
+1489413,61,,1533,343287,D. Livramento,22265.0,subst,Substitution 1
+1489413,61,,1533,113580,W. Semedo,291024.0,subst,Substitution 2
+1489413,66,,23,44340,S. Al Dawsari,403087.0,subst,Substitution 3
+1489413,66,,23,2639,S. Mandash,44382.0,subst,Substitution 4
+1489413,67,,23,44339,N. Al Dawsari,,Card,Yellow Card
+1489413,71,,1533,50270,R. Mendes,44612.0,subst,Substitution 3
+1489413,71,,1533,50745,J. Monteiro,37436.0,subst,Substitution 4
+1489413,82,,23,134995,N. Boushal,202381.0,subst,Substitution 5
+1489413,90,3.0,23,44324,F. Al Buraikan,,Card,Yellow Card
+1489413,90,4.0,1533,332056,W. Pina,22139.0,subst,Substitution 5
