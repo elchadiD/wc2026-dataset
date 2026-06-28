@@ -78,3 +78,10 @@ fixture_id,captured_at,home_team_id,home_team,away_team_id,away_team,pct_home,pc
 1565177,2026-06-27T08:47:44+00:00,2,France,5,Sweden,45,45,10,2.0,Combo Winner : France and +1.5 goals,100%,44%
 1565178,2026-06-27T08:47:44+00:00,20,Australia,32,Egypt,45,45,10,20.0,Combo Double chance : Australia or draw and -3.5 goals,44%,56%
 1565179,2026-06-27T08:47:44+00:00,26,Argentina,1533,Cape Verde Islands,50,50,0,26.0,Combo Double chance : Argentina or draw and -3.5 goals,100%,33%
+1567306,2026-06-28T09:26:17+00:00,16,Mexico,2382,Ecuador,45,45,10,16.0,Combo Double chance : Mexico or draw and -3.5 goals,100%,44%
+1567307,2026-06-28T09:26:17+00:00,10,England,1508,Congo DR,50,50,0,10.0,Double chance : England or draw,78%,44%
+1567308,2026-06-28T09:26:18+00:00,1,Belgium,13,Senegal,45,45,10,1.0,Double chance : Belgium or draw,56%,33%
+1567309,2026-06-28T09:26:18+00:00,27,Portugal,3,Croatia,45,45,10,27.0,Double chance : Portugal or draw,56%,67%
+1567310,2026-06-28T09:26:18+00:00,8,Colombia,1504,Ghana,50,50,0,8.0,Combo Double chance : Colombia or draw and -3.5 goals,78%,44%
+1567311,2026-06-28T09:26:18+00:00,9,Spain,775,Austria,45,45,10,9.0,Double chance : Spain or draw,78%,44%
+1567312,2026-06-28T09:26:18+00:00,15,Switzerland,1532,Algeria,45,45,10,15.0,Combo Double chance : Switzerland or draw and +1.5 goals,78%,44%
