@@ -1,0 +1,18 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489421,17,,1548,310785,M. Abu Taha,,Card,Yellow Card
+1489421,19,,26,1578,G. Lo Celso,,Goal,Normal Goal
+1489421,31,,26,217,L. Martinez,,Goal,Penalty
+1489421,46,,1548,568556,O. Al Fakhouri,123530.0,subst,Substitution 1
+1489421,46,,1548,575283,A. Azaizeh,15286.0,subst,Substitution 2
+1489421,55,,1548,15286,M. Tamari,53902.0,Goal,Normal Goal
+1489421,60,,26,1578,G. Lo Celso,6067.0,subst,Substitution 1
+1489421,60,,26,217,L. Martinez,154.0,subst,Substitution 2
+1489421,61,,26,350037,N. Paz,6716.0,subst,Substitution 3
+1489421,64,,1548,53900,Y. Al Arab,,Card,Yellow Card
+1489421,71,,26,323935,G. Simeone,319572.0,subst,Substitution 4
+1489421,76,,1548,213980,N. Al Rashdan,198211.0,subst,Substitution 3
+1489421,80,,26,154,L. Messi,,Goal,Normal Goal
+1489421,82,,26,6009,J. Alvarez,295513.0,subst,Substitution 5
+1489421,90,,1548,542822,H. Abu Dahab,72140.0,subst,Substitution 4
+1489421,90,,1548,164026,A. Olwan,72142.0,subst,Substitution 5
+1489421,90,4.0,1548,72142,Shararh,,Card,Yellow Card
