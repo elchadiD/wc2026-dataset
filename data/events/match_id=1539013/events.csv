@@ -1,0 +1,21 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1539013,10,,1568,53535,E. Shomurodov,73522.0,Goal,Normal Goal
+1539013,17,,1508,129670,N. Mbuku,,Var,Goal Disallowed - Foul
+1539013,21,,1508,365331,N. Sadiki,,Card,Yellow Card
+1539013,43,,1568,360114,A. Khusanov,,Card,Yellow Card
+1539013,45,5.0,1508,129670,N. Mbuku,,Card,Yellow Card
+1539013,48,,1568,73514,S. Nasrullaev,,Card,Yellow Card
+1539013,51,,1508,3033,C. Bakambu,179699.0,subst,Substitution 1
+1539013,59,,1568,50272,O. Shukurov,53835.0,subst,Substitution 1
+1539013,59,,1568,53834,D. Khamdamov,73520.0,subst,Substitution 2
+1539013,62,,1508,21101,S. Moutoussamy,,Card,Yellow Card
+1539013,68,,1508,20649,Y. Wissa,,Goal,Penalty
+1539013,72,,1508,279482,B. Cipenga,8627.0,subst,Substitution 2
+1539013,72,,1508,21101,S. Moutoussamy,375598.0,subst,Substitution 3
+1539013,72,,1508,129670,N. Mbuku,3034.0,subst,Substitution 4
+1539013,73,,1568,263676,A. Fayzullaev,72127.0,subst,Substitution 3
+1539013,78,,1508,179699,F. Mayele,,Goal,Normal Goal
+1539013,82,,1568,358427,J. Urozov,72128.0,subst,Substitution 4
+1539013,82,,1568,73522,A. Mozgovoy,65576.0,subst,Substitution 5
+1539013,83,,1508,18816,A. Masuaku,21098.0,subst,Substitution 5
+1539013,90,1.0,1508,20649,Y. Wissa,3034.0,Goal,Normal Goal

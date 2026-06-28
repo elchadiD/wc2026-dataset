@@ -1,0 +1,13 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489419,46,,27,2676,R. Neves,335051.0,subst,Substitution 1
+1489419,46,,27,855,J. Cancelo,886.0,subst,Substitution 2
+1489419,60,,8,2490,J. Lerma,195104.0,subst,Substitution 1
+1489419,60,,8,24810,J. Cordoba,47237.0,subst,Substitution 2
+1489419,70,,27,583,Joao Felix,22236.0,subst,Substitution 3
+1489419,70,,27,128384,Vitinha,190485.0,subst,Substitution 4
+1489419,76,,8,13708,J. Arias,289592.0,subst,Substitution 3
+1489419,76,,8,517,J. Rodriguez,6005.0,subst,Substitution 4
+1489419,86,,8,324034,G. Puerta,,Card,Yellow Card
+1489419,87,,8,30,S. Arias,13736.0,subst,Substitution 5
+1489419,90,2.0,8,168,D. Sanchez,,Var,Goal Disallowed - offside
+1489419,90,3.0,27,263482,N. Mendes,41621.0,subst,Substitution 5

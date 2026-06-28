@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1489418,11,,775,18830,M. Arnautovic,,Card,Yellow Card
+1489418,28,,775,18830,M. Arnautovic,505.0,Goal,Normal Goal
+1489418,45,,1532,303362,R. Belghali,,Goal,Normal Goal
+1489418,46,,775,18830,M. Arnautovic,25297.0,subst,Substitution 1
+1489418,46,,775,1095,X. Schlager,719.0,subst,Substitution 2
+1489418,46,,775,7562,R. Schmid,327895.0,subst,Substitution 3
+1489418,55,,775,1159,M. Sabitzer,1157.0,Goal,Normal Goal
+1489418,60,,1532,635,R. Mahrez,658.0,Goal,Normal Goal
+1489418,62,,775,505,D. Alaba,25287.0,subst,Substitution 4
+1489418,71,,1532,271539,J. Hadjam,21138.0,subst,Substitution 1
+1489418,71,,1532,85041,A. Gouiri,4561.0,subst,Substitution 2
+1489418,71,,1532,303362,R. Belghali,20869.0,subst,Substitution 3
+1489418,90,3.0,1532,635,R. Mahrez,658.0,Goal,Normal Goal
+1489418,90,4.0,1532,658,H. Aouar,334915.0,subst,Substitution 4
+1489418,90,5.0,775,25915,P. Mwene,7722.0,subst,Substitution 5
+1489418,90,6.0,775,7722,S. Kalajdzic,25297.0,Goal,Normal Goal
