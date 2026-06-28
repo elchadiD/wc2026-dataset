@@ -1,0 +1,12 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1561329,46,,1531,414149,R. Mofokeng,194430.0,subst,Substitution 1
+1561329,54,,5529,294824,N. Saliba,,Card,Yellow Card
+1561329,59,,5529,294824,N. Saliba,416901.0,subst,Substitution 1
+1561329,59,,5529,407017,M. Bombito,327738.0,subst,Substitution 2
+1561329,67,,5529,416901,N. Sigur,,Card,Yellow Card
+1561329,70,,5529,351587,T. Oluwaseyi,313353.0,subst,Substitution 3
+1561329,70,,5529,44798,L. Millar,50826.0,subst,Substitution 4
+1561329,75,,5529,51016,T. Buchanan,509.0,subst,Substitution 5
+1561329,86,,1531,201354,E. Makgopa,127429.0,subst,Substitution 2
+1561329,86,,1531,354831,T. Maseko,295977.0,subst,Substitution 3
+1561329,90,2.0,5529,35570,S. Eustaquio,,Goal,Normal Goal
