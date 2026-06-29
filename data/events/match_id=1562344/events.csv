@@ -1,0 +1,18 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1562344,12,,12,33889,K. Sano,,Card,Yellow Card
+1562344,14,,6,747,Casemiro,,Card,Yellow Card
+1562344,29,,12,33889,K. Sano,,Goal,Normal Goal
+1562344,45,,12,2601,D. Kamada,,Card,Yellow Card
+1562344,46,,6,1646,Lucas Paqueta,377122.0,subst,Substitution 1
+1562344,48,,6,618,Danilo,,Card,Yellow Card
+1562344,56,,6,747,Casemiro,22224.0,Goal,Normal Goal
+1562344,66,,6,1165,M. Cunha,127769.0,subst,Substitution 2
+1562344,66,,12,2598,R. Doan,32887.0,subst,Substitution 1
+1562344,66,,12,33321,K. Nakamura,351014.0,subst,Substitution 2
+1562344,78,,12,2601,D. Kamada,32966.0,subst,Substitution 3
+1562344,78,,12,1942,J. Ito,106851.0,subst,Substitution 4
+1562344,84,,12,351014,J. Suzuki,,Card,Yellow Card
+1562344,90,3.0,6,747,Casemiro,299.0,subst,Substitution 3
+1562344,90,5.0,6,127769,G. Martinelli,10135.0,Goal,Normal Goal
+1562344,90,7.0,12,33224,D. Maeda,33289.0,subst,Substitution 5
+1562344,90,8.0,6,10135,Bruno Guimaraes,275170.0,subst,Substitution 4
