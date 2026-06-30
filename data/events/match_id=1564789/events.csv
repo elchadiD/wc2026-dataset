@@ -1,0 +1,13 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1564789,39,,1090,314511,A. Nusa,37127.0,Goal,Normal Goal
+1564789,45,1.0,1090,314511,A. Nusa,,Card,Yellow Card
+1564789,60,,1501,474591,C. Inao Oulai,157997.0,subst,Substitution 1
+1564789,60,,1501,275651,A. Bonny,162707.0,subst,Substitution 2
+1564789,71,,1090,8492,A. Sorloth,278133.0,subst,Substitution 1
+1564789,71,,1090,314511,A. Nusa,301528.0,subst,Substitution 2
+1564789,74,,1501,157997,A. Diallo,3246.0,Goal,Normal Goal
+1564789,83,,1090,39362,M. Pedersen,39043.0,subst,Substitution 3
+1564789,86,,1090,1100,E. Haaland,39064.0,Goal,Normal Goal
+1564789,87,,1501,3246,N. Pepe,334429.0,subst,Substitution 3
+1564789,90,3.0,1501,513776,Y. Diomande,137303.0,subst,Substitution 4
+1564789,90,3.0,1501,22002,G. Konan,387643.0,subst,Substitution 5
