@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1565177,21,,2,278,K. Mbappe,,Var,Goal Disallowed - offside
+1565177,45,,2,278,K. Mbappe,153.0,Goal,Normal Goal
+1565177,53,,2,161904,B. Barcola,19617.0,Goal,Normal Goal
+1565177,66,,5,226765,E. Stroud,160925.0,subst,Substitution 1
+1565177,66,,5,347316,L. Bergvall,350850.0,subst,Substitution 2
+1565177,74,,2,278,K. Mbappe,19617.0,Goal,Normal Goal
+1565177,75,,2,1257,J. Kounde,161907.0,subst,Substitution 1
+1565177,75,,2,153,O. Dembele,343027.0,subst,Substitution 2
+1565177,78,,2,2724,L. Digne,47300.0,subst,Substitution 3
+1565177,82,,5,198654,D. Svensson,30484.0,subst,Substitution 3
+1565177,82,,5,265820,Y. Ayari,48002.0,subst,Substitution 4
+1565177,85,,2,278,K. Mbappe,25927.0,subst,Substitution 4
+1565177,85,,2,19617,M. Olise,156477.0,subst,Substitution 5
+1565177,89,,5,2864,A. Isak,15683.0,subst,Substitution 5
