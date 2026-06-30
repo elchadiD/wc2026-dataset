@@ -85,3 +85,4 @@ fixture_id,captured_at,home_team_id,home_team,away_team_id,away_team,pct_home,pc
 1567310,2026-06-28T09:26:18+00:00,8,Colombia,1504,Ghana,50,50,0,8.0,Combo Double chance : Colombia or draw and -3.5 goals,78%,44%
 1567311,2026-06-28T09:26:18+00:00,9,Spain,775,Austria,45,45,10,9.0,Double chance : Spain or draw,78%,44%
 1567312,2026-06-28T09:26:18+00:00,15,Switzerland,1532,Algeria,45,45,10,15.0,Combo Double chance : Switzerland or draw and +1.5 goals,78%,44%
+1567824,2026-06-30T09:56:32+00:00,5529,Canada,31,Morocco,10,45,45,31.0,Double chance : draw or Morocco,58%,67%
