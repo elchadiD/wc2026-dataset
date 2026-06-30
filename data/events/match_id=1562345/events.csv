@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1562345,47,,31,18814,I. Diop,,Card,Yellow Card
+1562345,71,,1118,18861,N. Ake,36899.0,subst,Substitution 1
+1562345,71,,1118,38750,B. Brobbey,25416.0,subst,Substitution 2
+1562345,72,,1118,247,C. Gakpo,37724.0,Goal,Normal Goal
+1562345,75,,31,278898,C. Riad,162451.0,subst,Substitution 1
+1562345,79,,31,744,B. Diaz,369544.0,subst,Substitution 2
+1562345,79,,31,438688,A. Bouaddi,415431.0,subst,Substitution 3
+1562345,86,,31,129678,A. Ounahi,36579.0,subst,Substitution 4
+1562345,86,,1118,152849,M. van de Ven,341642.0,subst,Substitution 3
+1562345,86,,1118,542,R. Gravenberch,38747.0,subst,Substitution 4
+1562345,87,,31,340573,B. El Khannouss,336659.0,subst,Substitution 5
+1562345,90,1.0,31,18814,I. Diop,336659.0,Goal,Normal Goal
+1562345,110,,1118,538,F. de Jong,30432.0,subst,Substitution 5
+1562345,113,,1118,247,C. Gakpo,792.0,subst,Substitution 6

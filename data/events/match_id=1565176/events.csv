@@ -1,0 +1,20 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1565176,42,,2380,70747,Julio Enciso,305832.0,Goal,Normal Goal
+1565176,46,,25,637,Felix Nmecha,511.0,subst,Substitution 1
+1565176,54,,25,978,Kai Havertz,203224.0,Goal,Normal Goal
+1565176,55,,2380,6483,Gabriel Ávalos,119128.0,subst,Substitution 1
+1565176,57,,2380,70747,Julio Enciso,106485.0,subst,Substitution 2
+1565176,63,,25,26475,Deniz Undav,181812.0,subst,Substitution 2
+1565176,65,,2380,6236,Andrés Cubas,,Card,Yellow Card
+1565176,79,,25,328033,Aleksandar Pavlović,25368.0,subst,Substitution 3
+1565176,88,,25,644,Leroy Sané,158054.0,subst,Substitution 4
+1565176,91,,2380,2507,Miguel Almirón,35808.0,subst,Substitution 3
+1565176,99,,2380,195107,Damián Bobadilla,2522.0,subst,Substitution 4
+1565176,99,,2380,195992,Juan Cáceres,70767.0,subst,Substitution 5
+1565176,103,,25,972,Jonathan Tah,,Var,Goal cancelled
+1565176,106,,25,978,Kai Havertz,,Card,Yellow Card
+1565176,110,,25,203224,Florian Wirtz,714.0,subst,Substitution 5
+1565176,110,,25,2285,Antonio Rüdiger,163189.0,subst,Substitution 6
+1565176,115,,25,181812,Jamal Musiala,,Card,Yellow Card
+1565176,117,,2380,305832,Matías Galarza,,Card,Yellow Card
+1565176,120,,2380,2499,Junior Alonso,2500.0,subst,Substitution 6
