@@ -1,0 +1,21 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1567308,25,,13,327631.0,H. Diarra,,Goal,Normal Goal
+1567308,46,,1,147859.0,C. De Ketelaere,907.0,subst,Substitution 1
+1567308,51,,13,2218.0,I. Sarr,25916.0,Goal,Normal Goal
+1567308,56,,1,629.0,K. De Bruyne,2120.0,subst,Substitution 2
+1567308,56,,1,1422.0,J. Doku,25458.0,subst,Substitution 3
+1567308,63,,1,78.0,H. Vanaken,335056.0,subst,Substitution 4
+1567308,64,,1,69.0,B. Mechele,,Card,Yellow Card
+1567308,66,,13,20696.0,P. Gueye,374058.0,subst,Substitution 1
+1567308,67,,13,374058.0,L. Camara,,Card,Yellow Card
+1567308,73,,13,18592.0,I. Ndiaye,446249.0,subst,Substitution 2
+1567308,73,,13,327631.0,H. Diarra,237129.0,subst,Substitution 3
+1567308,78,,1,162007.0,M. De Cuyper,264.0,subst,Substitution 5
+1567308,86,,1,907.0,R. Lukaku,264.0,Goal,Normal Goal
+1567308,89,,1,2926.0,Y. Tielemans,1946.0,Goal,Normal Goal
+1567308,90,,1,,R. Garcia,,Card,Yellow Card
+1567308,93,,13,304.0,S. Mane,283058.0,subst,Substitution 4
+1567308,93,,13,158121.0,I. Jakobs,409303.0,subst,Substitution 5
+1567308,96,,13,2990.0,I. Gueye,630895.0,subst,Substitution 6
+1567308,109,,1,1946.0,L. Trossard,162714.0,subst,Substitution 6
+1567308,120,5.0,1,2926.0,Y. Tielemans,,Goal,Penalty
