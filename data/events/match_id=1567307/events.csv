@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1567307,7,,1508,279482,B. Cipenga,375.0,Goal,Normal Goal
+1567307,19,,10,129718,J. Bellingham,,Card,Yellow Card
+1567307,28,,1508,365331,N. Sadiki,,Card,Yellow Card
+1567307,61,,10,909,M. Rashford,138787.0,subst,Substitution 1
+1567307,61,,10,136723,N. Madueke,1460.0,subst,Substitution 2
+1567307,64,,1508,129670,N. Mbuku,3034.0,subst,Substitution 1
+1567307,70,,10,19235,D. Spence,19586.0,subst,Substitution 3
+1567307,75,,10,184,H. Kane,138787.0,Goal,Normal Goal
+1567307,76,,1508,375598,N. Mukau,1424.0,subst,Substitution 2
+1567307,76,,1508,279482,B. Cipenga,8627.0,subst,Substitution 3
+1567307,86,,10,184,H. Kane,138787.0,Goal,Normal Goal
+1567307,89,,1508,18816,A. Masuaku,21098.0,subst,Substitution 4
+1567307,89,,1508,21101,S. Moutoussamy,179699.0,subst,Substitution 5
+1567307,90,1.0,10,2937,D. Rice,626.0,subst,Substitution 4

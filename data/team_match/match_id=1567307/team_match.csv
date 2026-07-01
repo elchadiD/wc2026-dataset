@@ -1,0 +1,3 @@
+fixture_id,date,team_id,team_name,opponent_id,is_home,goals_for,goals_against,outcome,possession_pct,passes_total,passes_accurate,passes_pct,shots_total,shots_on_target,shots_off_target,shots_blocked,shots_inside_box,shots_outside_box,fouls,corners,offsides,yellow_cards,red_cards,gk_saves,xg,is_complete
+1567307,2026-07-01 16:00:00+00:00,10,England,1508,True,2,1,W,60.0,517.0,468.0,91.0,16.0,7.0,6.0,3.0,13.0,3.0,10.0,5.0,0.0,1.0,,1.0,2.04,True
+1567307,2026-07-01 16:00:00+00:00,1508,Congo DR,10,False,1,2,L,40.0,365.0,299.0,82.0,7.0,2.0,3.0,2.0,2.0,5.0,12.0,3.0,4.0,1.0,,5.0,0.8,True
