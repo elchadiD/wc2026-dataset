@@ -86,3 +86,5 @@ fixture_id,captured_at,home_team_id,home_team,away_team_id,away_team,pct_home,pc
 1567311,2026-06-28T09:26:18+00:00,9,Spain,775,Austria,45,45,10,9.0,Double chance : Spain or draw,78%,44%
 1567312,2026-06-28T09:26:18+00:00,15,Switzerland,1532,Algeria,45,45,10,15.0,Combo Double chance : Switzerland or draw and +1.5 goals,78%,44%
 1567824,2026-06-30T09:56:32+00:00,5529,Canada,31,Morocco,10,45,45,31.0,Double chance : draw or Morocco,58%,67%
+1568100,2026-07-01T10:06:08+00:00,6,Brazil,1090,Norway,35,35,30,6.0,Double chance : Brazil or draw,83%,75%
+1569870,2026-07-01T10:06:07+00:00,2380,Paraguay,2,France,0,50,50,2.0,Winner : France,42%,100%
