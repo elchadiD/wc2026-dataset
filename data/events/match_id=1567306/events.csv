@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1567306,22,,16,35532,J. Quinones,2879.0,Goal,Normal Goal
+1567306,31,,16,2887,R. Jimenez,35532.0,Goal,Normal Goal
+1567306,45,1.0,2382,16360,A. Franco,,Card,Yellow Card
+1567306,46,,2382,16360,A. Franco,306940.0,subst,Substitution 1
+1567306,46,,2382,354027,J. Ordonez,2583.0,subst,Substitution 2
+1567306,58,,16,482605,G. Mora,212233.0,subst,Substitution 1
+1567306,59,,2382,35533,E. Valencia,361966.0,subst,Substitution 3
+1567306,73,,16,35970,L. Romo,313383.0,subst,Substitution 2
+1567306,74,,16,2887,R. Jimenez,94562.0,subst,Substitution 3
+1567306,79,,2382,25414,J. Yeboah,16590.0,subst,Substitution 4
+1567306,79,,2382,311543,N. Angulo,406303.0,subst,Substitution 5
+1567306,80,,16,35532,J. Quinones,35576.0,subst,Substitution 4
+1567306,80,,16,2879,R. Alvarado,127227.0,subst,Substitution 5
+1567306,90,3.0,2382,406303,K. Paez,,Card,Yellow Card
+1567306,90,5.0,2382,127817,P. Hincapie,,Card,Red Card
+1567306,90,9.0,2382,116117,M. Caicedo,,Card,Yellow Card

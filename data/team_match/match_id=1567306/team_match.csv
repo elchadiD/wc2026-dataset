@@ -1,0 +1,3 @@
+fixture_id,date,team_id,team_name,opponent_id,is_home,goals_for,goals_against,outcome,possession_pct,passes_total,passes_accurate,passes_pct,shots_total,shots_on_target,shots_off_target,shots_blocked,shots_inside_box,shots_outside_box,fouls,corners,offsides,yellow_cards,red_cards,gk_saves,xg,is_complete
+1567306,2026-07-01 01:00:00+00:00,16,Mexico,2382,True,2,0,W,43.0,319.0,249.0,78.0,15.0,3.0,9.0,3.0,10.0,5.0,10.0,3.0,0.0,0.0,0.0,1.0,1.02,True
+1567306,2026-07-01 01:00:00+00:00,2382,Ecuador,16,False,0,2,L,57.0,407.0,340.0,84.0,7.0,1.0,5.0,1.0,5.0,2.0,14.0,8.0,1.0,3.0,1.0,1.0,0.73,True
