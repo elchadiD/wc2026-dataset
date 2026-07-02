@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1562586,45,,2384,138835.0,F. Balogun,,Goal,Normal Goal
+1562586,51,,1113,70514.0,A. Gigovic,329409.0,subst,Substitution 1
+1562586,51,,1113,1324.0,I. Sunjic,264094.0,subst,Substitution 2
+1562586,51,,1113,790.0,E. Dzeko,340173.0,subst,Substitution 3
+1562586,64,,2384,138835.0,F. Balogun,,Card,Red Card
+1562586,75,,1113,1442.0,S. Kolasinac,28382.0,subst,Substitution 4
+1562586,75,,1113,1741.0,N. Katic,322101.0,subst,Substitution 5
+1562586,80,,1113,,S. Barbarez,,Card,Yellow Card
+1562586,80,,1113,14301.0,S. Radeljic,,Card,Yellow Card
+1562586,82,,2384,162037.0,M. Tillman,,Goal,Normal Goal
+1562586,87,,2384,38735.0,S. Dest,201713.0,subst,Substitution 1
+1562586,88,,2384,17.0,C. Pulisic,73868.0,subst,Substitution 2
+1562586,90,5.0,2384,415.0,W. McKennie,161921.0,subst,Substitution 3
