@@ -88,3 +88,5 @@ fixture_id,captured_at,home_team_id,home_team,away_team_id,away_team,pct_home,pc
 1567824,2026-06-30T09:56:32+00:00,5529,Canada,31,Morocco,10,45,45,31.0,Double chance : draw or Morocco,58%,67%
 1568100,2026-07-01T10:06:08+00:00,6,Brazil,1090,Norway,35,35,30,6.0,Double chance : Brazil or draw,83%,75%
 1569870,2026-07-01T10:06:07+00:00,2380,Paraguay,2,France,0,50,50,2.0,Winner : France,42%,100%
+1570714,2026-07-02T09:28:53+00:00,16,Mexico,10,England,45,45,10,16.0,Double chance : Mexico or draw,100%,83%
+1570715,2026-07-02T09:28:53+00:00,2384,USA,1,Belgium,10,45,45,1.0,Double chance : draw or Belgium,75%,67%
