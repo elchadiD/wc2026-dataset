@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1567311,36,,9,47323,M. Oyarzabal,47380.0,Goal,Normal Goal
+1567311,46,,775,7328,N. Seiwald,138935.0,subst,Substitution 1
+1567311,46,,775,1095,X. Schlager,719.0,subst,Substitution 2
+1567311,60,,775,25297,M. Gregoritsch,18830.0,subst,Substitution 3
+1567311,60,,775,7562,R. Schmid,7722.0,subst,Substitution 4
+1567311,66,,9,47519,P. Porro,182219.0,Goal,Normal Goal
+1567311,71,,9,182219,A. Baena,931.0,subst,Substitution 1
+1567311,71,,9,1323,D. Olmo,47311.0,subst,Substitution 2
+1567311,83,,775,711,S. Posch,,Card,Yellow Card
+1567311,85,,9,386828,Lamine Yamal,296667.0,subst,Substitution 3
+1567311,85,,775,711,S. Posch,7327.0,subst,Substitution 5
+1567311,89,,9,47323,M. Oyarzabal,47380.0,Goal,Normal Goal
+1567311,90,3.0,9,133609,Pedri,328.0,subst,Substitution 4
+1567311,90,3.0,9,622,A. Laporte,295793.0,subst,Substitution 5

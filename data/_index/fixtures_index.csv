@@ -49,28 +49,28 @@ fixture_id,label,date,round,home_team,away_team
 1539008,Colombia vs Congo DR,2026-06-24 02:00:00+00:00,Group Stage - 2,Colombia,Congo DR
 1539009,Bosnia & Herzegovina vs Qatar,2026-06-24 19:00:00+00:00,Group Stage - 3,Bosnia & Herzegovina,Qatar
 1489408,Switzerland vs Canada,2026-06-24 19:00:00+00:00,Group Stage - 3,Switzerland,Canada
-1489405,Morocco vs Haiti,2026-06-24 22:00:00+00:00,Group Stage - 3,Morocco,Haiti
 1489406,Scotland vs Brazil,2026-06-24 22:00:00+00:00,Group Stage - 3,Scotland,Brazil
+1489405,Morocco vs Haiti,2026-06-24 22:00:00+00:00,Group Stage - 3,Morocco,Haiti
 1489407,South Africa vs South Korea,2026-06-25 01:00:00+00:00,Group Stage - 3,South Africa,South Korea
 1539010,Czechia vs Mexico,2026-06-25 01:00:00+00:00,Group Stage - 3,Czechia,Mexico
 1489409,Curaçao vs Ivory Coast,2026-06-25 20:00:00+00:00,Group Stage - 3,Curaçao,Ivory Coast
 1489410,Ecuador vs Germany,2026-06-25 20:00:00+00:00,Group Stage - 3,Ecuador,Germany
 1539011,Japan vs Sweden,2026-06-25 23:00:00+00:00,Group Stage - 3,Japan,Sweden
 1489412,Tunisia vs Netherlands,2026-06-25 23:00:00+00:00,Group Stage - 3,Tunisia,Netherlands
-1489411,Paraguay vs Australia,2026-06-26 02:00:00+00:00,Group Stage - 3,Paraguay,Australia
 1539012,Türkiye vs USA,2026-06-26 02:00:00+00:00,Group Stage - 3,Türkiye,USA
-1539074,Senegal vs Iraq,2026-06-26 19:00:00+00:00,Group Stage - 3,Senegal,Iraq
+1489411,Paraguay vs Australia,2026-06-26 02:00:00+00:00,Group Stage - 3,Paraguay,Australia
 1489416,Norway vs France,2026-06-26 19:00:00+00:00,Group Stage - 3,Norway,France
+1539074,Senegal vs Iraq,2026-06-26 19:00:00+00:00,Group Stage - 3,Senegal,Iraq
 1489413,Cape Verde Islands vs Saudi Arabia,2026-06-27 00:00:00+00:00,Group Stage - 3,Cape Verde Islands,Saudi Arabia
 1489417,Uruguay vs Spain,2026-06-27 00:00:00+00:00,Group Stage - 3,Uruguay,Spain
 1489415,New Zealand vs Belgium,2026-06-27 03:00:00+00:00,Group Stage - 3,New Zealand,Belgium
 1489414,Egypt vs Iran,2026-06-27 03:00:00+00:00,Group Stage - 3,Egypt,Iran
-1489420,Croatia vs Ghana,2026-06-27 21:00:00+00:00,Group Stage - 3,Croatia,Ghana
 1489422,Panama vs England,2026-06-27 21:00:00+00:00,Group Stage - 3,Panama,England
+1489420,Croatia vs Ghana,2026-06-27 21:00:00+00:00,Group Stage - 3,Croatia,Ghana
 1489419,Colombia vs Portugal,2026-06-27 23:30:00+00:00,Group Stage - 3,Colombia,Portugal
 1539013,Congo DR vs Uzbekistan,2026-06-27 23:30:00+00:00,Group Stage - 3,Congo DR,Uzbekistan
-1489418,Algeria vs Austria,2026-06-28 02:00:00+00:00,Group Stage - 3,Algeria,Austria
 1489421,Jordan vs Argentina,2026-06-28 02:00:00+00:00,Group Stage - 3,Jordan,Argentina
+1489418,Algeria vs Austria,2026-06-28 02:00:00+00:00,Group Stage - 3,Algeria,Austria
 1561329,South Africa vs Canada,2026-06-28 19:00:00+00:00,Round of 32,South Africa,Canada
 1562344,Brazil vs Japan,2026-06-29 17:00:00+00:00,Round of 32,Brazil,Japan
 1565176,Germany vs Paraguay,2026-06-29 20:30:00+00:00,Round of 32,Germany,Paraguay
@@ -81,3 +81,4 @@ fixture_id,label,date,round,home_team,away_team
 1567307,England vs Congo DR,2026-07-01 16:00:00+00:00,Round of 32,England,Congo DR
 1567308,Belgium vs Senegal,2026-07-01 20:00:00+00:00,Round of 32,Belgium,Senegal
 1562586,USA vs Bosnia & Herzegovina,2026-07-02 00:00:00+00:00,Round of 32,USA,Bosnia & Herzegovina
+1567311,Spain vs Austria,2026-07-02 19:00:00+00:00,Round of 32,Spain,Austria
