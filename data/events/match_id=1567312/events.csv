@@ -1,0 +1,15 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1567312,10,,15,421,B. Embolo,406244.0,Goal,Normal Goal
+1567312,36,,1532,276670,F. Chaibi,,Card,Yellow Card
+1567312,46,,15,48648,D. Ndoye,,Goal,Normal Goal
+1567312,58,,1532,658,H. Aouar,271539.0,subst,Substitution 1
+1567312,58,,1532,129047,R. Zerrouki,85041.0,subst,Substitution 2
+1567312,71,,15,48471,R. Vargas,163032.0,subst,Substitution 1
+1567312,71,,15,406244,J. Manzambi,48389.0,subst,Substitution 2
+1567312,71,,1532,635,R. Mahrez,326067.0,subst,Substitution 3
+1567312,71,,1532,409,N. Bentaleb,4399.0,subst,Substitution 4
+1567312,72,,1532,4399,H. Boudaoui,,Card,Yellow Card
+1567312,82,,1532,303362,R. Belghali,329163.0,subst,Substitution 5
+1567312,83,,15,421,B. Embolo,123469.0,subst,Substitution 3
+1567312,87,,15,2810,D. Zakaria,48378.0,subst,Substitution 4
+1567312,87,,15,48648,D. Ndoye,951.0,subst,Substitution 5
