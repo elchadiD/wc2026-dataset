@@ -90,3 +90,4 @@ fixture_id,captured_at,home_team_id,home_team,away_team_id,away_team,pct_home,pc
 1569870,2026-07-01T10:06:07+00:00,2380,Paraguay,2,France,0,50,50,2.0,Winner : France,42%,100%
 1570714,2026-07-02T09:28:53+00:00,16,Mexico,10,England,45,45,10,16.0,Double chance : Mexico or draw,100%,83%
 1570715,2026-07-02T09:28:53+00:00,2384,USA,1,Belgium,10,45,45,1.0,Double chance : draw or Belgium,75%,67%
+1576756,2026-07-03T09:31:46+00:00,27,Portugal,9,Spain,10,45,45,9.0,Combo Double chance : draw or Spain and -3.5 goals,67%,83%
