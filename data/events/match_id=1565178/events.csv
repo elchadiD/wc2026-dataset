@@ -1,0 +1,24 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1565178,13,,32,17269,E. Ashour,2656.0,Goal,Normal Goal
+1565178,46,,20,337587,J. Bos,153622.0,subst,Substitution 1
+1565178,55,,20,2654,M. Hany,,Goal,Own Goal
+1565178,67,,32,395075,M. Ziko,20844.0,subst,Substitution 1
+1565178,67,,32,16813,H. Fathy,269621.0,subst,Substitution 2
+1565178,74,,20,342035,C. Volpato,38123.0,subst,Substitution 2
+1565178,74,,20,338014,N. Irankunda,198352.0,subst,Substitution 3
+1565178,80,,32,2656,K. Hafez,2664.0,subst,Substitution 3
+1565178,91,,20,7050,A. O'Neill,441269.0,subst,Substitution 4
+1565178,91,,20,6904,C. Metcalfe,2755.0,subst,Substitution 5
+1565178,105,,32,20844,H. Hassan,,Card,Yellow Card
+1565178,106,,32,81573,O. Marmoush,550547.0,subst,Substitution 4
+1565178,119,,20,353883,P. Beach,2741.0,subst,Substitution 6
+1565178,120,,32,16804,Y. Ibrahim,,Card,Yellow Card
+1565178,120,1.0,32,190575,M. Attia,69196.0,subst,Substitution 5
+1565178,120,1.0,20,20079,H. Souttar,,Goal,Missed Penalty
+1565178,120,1.0,32,69196,M. Saber,,Goal,Penalty
+1565178,120,2.0,20,2749,J. Irvine,,Goal,Penalty
+1565178,120,2.0,32,16805,R. Rabia,,Goal,Penalty
+1565178,120,3.0,20,2755,A. Mabil,,Goal,Penalty
+1565178,120,3.0,32,306,M. Salah,,Goal,Penalty
+1565178,120,4.0,20,426480,L. Herrington,,Goal,Missed Penalty
+1565178,120,4.0,32,269621,H. Abdelmaguid,,Goal,Penalty
