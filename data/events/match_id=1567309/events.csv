@@ -1,0 +1,19 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1567309,17,,27,567,R. Dias,,Card,Yellow Card
+1567309,46,,3,46746,A. Budimir,202696.0,subst,Substitution 1
+1567309,53,,3,207,I. Perisic,,Goal,Normal Goal
+1567309,59,,3,754,L. Modric,,Card,Yellow Card
+1567309,61,,27,874,C. Ronaldo,,Var,Goal Disallowed - offside
+1567309,62,,27,128384,Vitinha,636.0,subst,Substitution 1
+1567309,63,,27,1864,P. Neto,161585.0,subst,Substitution 2
+1567309,63,,27,1485,B. Fernandes,130.0,subst,Substitution 3
+1567309,63,,27,855,J. Cancelo,41585.0,subst,Substitution 4
+1567309,68,,27,874,C. Ronaldo,,Goal,Penalty
+1567309,68,,3,295026,M. Baturina,2763.0,subst,Substitution 2
+1567309,81,,3,348205,P. Sucic,,Var,Goal Disallowed - offside
+1567309,81,,27,874,C. Ronaldo,2676.0,subst,Substitution 5
+1567309,90,2.0,3,842,N. Vlasic,129033.0,subst,Substitution 3
+1567309,90,4.0,27,41585,G. Ramos,22236.0,Goal,Normal Goal
+1567309,90,6.0,3,2291,M. Kovacic,726.0,subst,Substitution 4
+1567309,90,8.0,3,207,I. Perisic,,Card,Yellow Card
+1567309,90,13.0,3,129033,J. Gvardiol,,Var,Goal Disallowed - offside
