@@ -91,3 +91,5 @@ fixture_id,captured_at,home_team_id,home_team,away_team_id,away_team,pct_home,pc
 1570714,2026-07-02T09:28:53+00:00,16,Mexico,10,England,45,45,10,16.0,Double chance : Mexico or draw,100%,83%
 1570715,2026-07-02T09:28:53+00:00,2384,USA,1,Belgium,10,45,45,1.0,Double chance : draw or Belgium,75%,67%
 1576756,2026-07-03T09:31:46+00:00,27,Portugal,9,Spain,10,45,45,9.0,Combo Double chance : draw or Spain and -3.5 goals,67%,83%
+1576804,2026-07-04T08:48:34+00:00,26,Argentina,32,Egypt,45,45,10,26.0,Double chance : Argentina or draw,100%,50%
+1576805,2026-07-04T08:48:34+00:00,15,Switzerland,8,Colombia,35,35,30,15.0,Double chance : Switzerland or draw,83%,83%
