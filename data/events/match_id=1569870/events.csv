@@ -1,0 +1,11 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1569870,19,,2,161904,B. Barcola,,Card,Yellow Card
+1569870,58,,2380,6168,O. Alderete,70732.0,subst,Substitution 1
+1569870,61,,2380,70747,J. Enciso,119128.0,subst,Substitution 2
+1569870,61,,2,161904,B. Barcola,343027.0,subst,Substitution 1
+1569870,70,,2,278,K. Mbappe,,Goal,Penalty
+1569870,71,,2380,2502,G. Gomez,106485.0,subst,Substitution 3
+1569870,71,,2380,2507,M. Almiron,6483.0,subst,Substitution 4
+1569870,81,,2,22147,M. Kone,,Card,Yellow Card
+1569870,84,,2,153,O. Dembele,156477.0,subst,Substitution 2
+1569870,90,7.0,2,19617,M. Olise,,Card,Yellow Card
