@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1567310,8,,8,24810,J. Cordoba,47237.0,subst,Substitution 1
+1567310,12,,8,13708,J. Arias,,Card,Yellow Card
+1567310,13,,1504,191240,M. Senaya,196187.0,subst,Substitution 1
+1567310,14,,8,13708,J. Arias,47237.0,Goal,Normal Goal
+1567310,46,,8,517,J. Rodriguez,195104.0,subst,Substitution 2
+1567310,49,,1504,475575,C. Yirenkyi,,Card,Yellow Card
+1567310,56,,8,2489,L. Diaz,,Var,Goal Disallowed - offside
+1567310,62,,1504,47294,I. Williams,303467.0,subst,Substitution 2
+1567310,62,,1504,3608,K. Sibo,21010.0,subst,Substitution 3
+1567310,66,,1504,303467,I. Fatawu,,Card,Yellow Card
+1567310,73,,8,13708,J. Arias,6005.0,subst,Substitution 3
+1567310,76,,1504,196187,A. Seidu,,Card,Yellow Card
+1567310,78,,8,195104,R. Rios,,Card,Yellow Card
+1567310,79,,1504,3428,J. Ayew,350856.0,subst,Substitution 4
+1567310,79,,1504,475575,C. Yirenkyi,410016.0,subst,Substitution 5
+1567310,90,,8,2489,L. Diaz,13376.0,subst,Substitution 4

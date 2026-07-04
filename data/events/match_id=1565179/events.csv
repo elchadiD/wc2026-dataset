@@ -1,0 +1,19 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1565179,29,,26,154,Lionel Messi,2467.0,Goal,Normal Goal
+1565179,59,,1533,37435,Deroy Duarte,50270.0,Goal,Normal Goal
+1565179,63,,26,6067,Thiago Almada,26315.0,subst,Substitution 1
+1565179,63,,26,217,Lautaro Martínez,6009.0,subst,Substitution 2
+1565179,67,,1533,22265,Nuno Da Costa,343287.0,subst,Substitution 1
+1565179,67,,1533,37436,Laros Duarte,50745.0,subst,Substitution 2
+1565179,68,,1533,96512,Kevin Lenini,,Card,Yellow Card
+1565179,80,,1533,1494,Jovane Cabral,291024.0,subst,Substitution 3
+1565179,80,,1533,50270,Ryan Mendes,113580.0,subst,Substitution 4
+1565179,84,,26,2472,Rodrigo De Paul,271.0,subst,Substitution 3
+1565179,86,,26,6231,Facundo Medina,529.0,subst,Substitution 4
+1565179,93,,26,2467,Lisandro Martínez,6716.0,Goal,Normal Goal
+1565179,100,,1533,96512,Kevin Lenini,309182.0,subst,Substitution 5
+1565179,100,,1533,37435,Deroy Duarte,128007.0,subst,Substitution 6
+1565179,103,,1533,308689,Sidny Lopes Cabral,,Goal,Normal Goal
+1565179,104,,26,6503,Nahuel Molina,2468.0,subst,Substitution 5
+1565179,111,,26,41608,Diney Borges,,Goal,Own Goal
+1565179,115,,26,2468,Gonzalo Montiel,,Card,Yellow Card
