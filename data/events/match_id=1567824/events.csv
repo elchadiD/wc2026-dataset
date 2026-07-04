@@ -1,0 +1,22 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1567824,20,,31,326183,R. Halhal,,Card,Yellow Card
+1567824,22,,31,161897,I. Saibari,36579.0,subst,Substitution 1
+1567824,40,,31,9,A. Hakimi,,Card,Yellow Card
+1567824,40,,5529,50816,R. Laryea,,Card,Yellow Card
+1567824,43,,5529,8489,J. David,,Card,Yellow Card
+1567824,45,,31,129678,A. Ounahi,,Card,Yellow Card
+1567824,45,6.0,31,340573,B. El Khannouss,,Card,Yellow Card
+1567824,49,,5529,327738,L. De Fougerolles,,Card,Yellow Card
+1567824,50,,31,129678,A. Ounahi,9.0,Goal,Normal Goal
+1567824,63,,31,438688,A. Bouaddi,74.0,subst,Substitution 2
+1567824,63,,31,340573,B. El Khannouss,336659.0,subst,Substitution 3
+1567824,63,,5529,351587,T. Oluwaseyi,2001.0,subst,Substitution 1
+1567824,67,,5529,2001,C. Larin,,Card,Yellow Card
+1567824,78,,5529,362145,A. Ahmed,313353.0,subst,Substitution 2
+1567824,79,,5529,50816,R. Laryea,50826.0,subst,Substitution 3
+1567824,82,,31,129678,A. Ounahi,744.0,Goal,Normal Goal
+1567824,87,,31,18814,I. Diop,50042.0,subst,Substitution 4
+1567824,87,,31,129678,A. Ounahi,415431.0,subst,Substitution 5
+1567824,87,,5529,51016,T. Buchanan,193279.0,subst,Substitution 4
+1567824,87,,5529,416901,N. Sigur,50817.0,subst,Substitution 5
+1567824,90,8.0,31,36579,S. Rahimi,744.0,Goal,Normal Goal
