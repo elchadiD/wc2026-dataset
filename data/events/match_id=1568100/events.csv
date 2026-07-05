@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1568100,14,,6,10135,Bruno Guimaraes,10135.0,Goal,Missed Penalty
+1568100,46,,1090,8492,A. Sorloth,278133.0,subst,Substitution 1
+1568100,46,,1090,314511,A. Nusa,301528.0,subst,Substitution 2
+1568100,58,,6,1165,M. Cunha,377122.0,subst,Substitution 1
+1568100,63,,1090,24845,J. Ryerson,39043.0,subst,Substitution 3
+1568100,67,,6,127769,G. Martinelli,276.0,subst,Substitution 2
+1568100,67,,6,407806,Rayan,275170.0,subst,Substitution 3
+1568100,79,,6,10135,Bruno Guimaraes,10097.0,subst,Substitution 4
+1568100,79,,1090,1100,E. Haaland,301528.0,Goal,Normal Goal
+1568100,90,,1090,1100,E. Haaland,301528.0,Goal,Normal Goal
+1568100,90,5.0,1090,265782,D. Wolfe,18967.0,subst,Substitution 4
+1568100,90,6.0,6,276,Neymar,,Card,Yellow Card
+1568100,90,10.0,6,276,Neymar,,Goal,Penalty
