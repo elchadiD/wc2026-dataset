@@ -1,0 +1,22 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1570714,1,,10,2937,D. Rice,,Card,Yellow Card
+1570714,36,,10,129718,J. Bellingham,1460.0,Goal,Normal Goal
+1570714,38,,10,129718,J. Bellingham,184.0,Goal,Normal Goal
+1570714,42,,16,35532,J. Quinones,,Goal,Normal Goal
+1570714,46,,16,2873,C. Montes,2869.0,subst,Substitution 1
+1570714,54,,10,158698,J. Quansah,,Card,Red Card
+1570714,57,,10,1460,B. Saka,626.0,subst,Substitution 1
+1570714,60,,10,184,H. Kane,,Goal,Penalty
+1570714,61,,16,482605,G. Mora,94562.0,subst,Substitution 2
+1570714,61,,16,35970,L. Romo,212233.0,subst,Substitution 3
+1570714,68,,10,67971,M. Guehi,,Card,Yellow Card
+1570714,69,,16,2887,R. Jimenez,,Goal,Penalty
+1570714,71,,16,2878,J. Sanchez,,Card,Yellow Card
+1570714,72,,10,307123,N. O'Reilly,,Card,Yellow Card
+1570714,74,,10,307123,N. O'Reilly,19235.0,subst,Substitution 2
+1570714,75,,10,138908,E. Anderson,18961.0,subst,Substitution 3
+1570714,79,,16,2878,J. Sanchez,750.0,subst,Substitution 4
+1570714,81,,16,35532,J. Quinones,36088.0,subst,Substitution 5
+1570714,90,,10,184,H. Kane,19170.0,subst,Substitution 4
+1570714,90,8.0,16,35544,J. Vasquez,,Card,Yellow Card
+1570714,90,8.0,10,292,J. Henderson,,Card,Yellow Card
