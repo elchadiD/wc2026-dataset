@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1576756,56,,27,263482,N. Mendes,130.0,subst,Substitution 1
+1576756,71,,27,583,Joao Felix,22236.0,subst,Substitution 2
+1576756,71,,27,855,J. Cancelo,886.0,subst,Substitution 3
+1576756,75,,9,182219,A. Baena,931.0,subst,Substitution 1
+1576756,83,,27,1864,P. Neto,161585.0,subst,Substitution 4
+1576756,83,,27,128384,Vitinha,636.0,subst,Substitution 5
+1576756,85,,9,133609,Pedri,328.0,subst,Substitution 2
+1576756,85,,9,1323,D. Olmo,47311.0,subst,Substitution 3
+1576756,89,,27,636,B. Silva,,Card,Yellow Card
+1576756,90,1.0,9,47311,M. Merino,931.0,Goal,Normal Goal
+1576756,90,4.0,27,336671,R. Veiga,,Card,Yellow Card
+1576756,90,7.0,9,47323,M. Oyarzabal,47348.0,subst,Substitution 4
+1576756,90,8.0,9,931,F. Torres,,Card,Yellow Card
