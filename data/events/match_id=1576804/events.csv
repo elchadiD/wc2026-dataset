@@ -1,0 +1,22 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1576804,15,,32,16804,Y. Ibrahim,190575.0,Goal,Normal Goal
+1576804,21,,26,154,L. Messi,154.0,Goal,Missed Penalty
+1576804,46,,32,17269,E. Ashour,16813.0,subst,Substitution 1
+1576804,58,,32,395075,M. Ziko,,Var,Goal Disallowed - Foul
+1576804,66,,26,529,N. Tagliafico,26315.0,subst,Substitution 1
+1576804,66,,26,2472,R. de Paul,217.0,subst,Substitution 2
+1576804,67,,32,395075,M. Ziko,20844.0,Goal,Normal Goal
+1576804,73,,26,6503,N. Molina,2468.0,subst,Substitution 3
+1576804,73,,32,20844,H. Hassan,2664.0,subst,Substitution 2
+1576804,79,,26,30776,C. Romero,154.0,Goal,Normal Goal
+1576804,80,,32,395075,M. Ziko,81573.0,subst,Substitution 3
+1576804,83,,26,154,L. Messi,2468.0,Goal,Normal Goal
+1576804,90,2.0,26,5996,E. Fernandez,217.0,Goal,Normal Goal
+1576804,90,3.0,32,269174,M. Shobeir,,Card,Yellow Card
+1576804,90,4.0,32,16813,H. Fathy,,Card,Yellow Card
+1576804,90,5.0,26,30776,C. Romero,624.0,subst,Substitution 4
+1576804,90,5.0,26,6009,J. Alvarez,6231.0,subst,Substitution 5
+1576804,90,6.0,32,16841,M. Lasheen,16871.0,subst,Substitution 4
+1576804,90,8.0,32,190575,M. Attia,,Card,Yellow Card
+1576804,90,9.0,32,271543,H. Hassan,,Card,Yellow Card
+1576804,90,12.0,32,20844,H. Hassan,,Card,Yellow Card

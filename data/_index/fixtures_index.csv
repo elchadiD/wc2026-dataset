@@ -47,8 +47,8 @@ fixture_id,label,date,round,home_team,away_team
 1489402,England vs Ghana,2026-06-23 20:00:00+00:00,Group Stage - 2,England,Ghana
 1489403,Panama vs Croatia,2026-06-23 23:00:00+00:00,Group Stage - 2,Panama,Croatia
 1539008,Colombia vs Congo DR,2026-06-24 02:00:00+00:00,Group Stage - 2,Colombia,Congo DR
-1489408,Switzerland vs Canada,2026-06-24 19:00:00+00:00,Group Stage - 3,Switzerland,Canada
 1539009,Bosnia & Herzegovina vs Qatar,2026-06-24 19:00:00+00:00,Group Stage - 3,Bosnia & Herzegovina,Qatar
+1489408,Switzerland vs Canada,2026-06-24 19:00:00+00:00,Group Stage - 3,Switzerland,Canada
 1489405,Morocco vs Haiti,2026-06-24 22:00:00+00:00,Group Stage - 3,Morocco,Haiti
 1489406,Scotland vs Brazil,2026-06-24 22:00:00+00:00,Group Stage - 3,Scotland,Brazil
 1539010,Czechia vs Mexico,2026-06-25 01:00:00+00:00,Group Stage - 3,Czechia,Mexico
@@ -65,10 +65,10 @@ fixture_id,label,date,round,home_team,away_team
 1489417,Uruguay vs Spain,2026-06-27 00:00:00+00:00,Group Stage - 3,Uruguay,Spain
 1489415,New Zealand vs Belgium,2026-06-27 03:00:00+00:00,Group Stage - 3,New Zealand,Belgium
 1489414,Egypt vs Iran,2026-06-27 03:00:00+00:00,Group Stage - 3,Egypt,Iran
-1489422,Panama vs England,2026-06-27 21:00:00+00:00,Group Stage - 3,Panama,England
 1489420,Croatia vs Ghana,2026-06-27 21:00:00+00:00,Group Stage - 3,Croatia,Ghana
-1489419,Colombia vs Portugal,2026-06-27 23:30:00+00:00,Group Stage - 3,Colombia,Portugal
+1489422,Panama vs England,2026-06-27 21:00:00+00:00,Group Stage - 3,Panama,England
 1539013,Congo DR vs Uzbekistan,2026-06-27 23:30:00+00:00,Group Stage - 3,Congo DR,Uzbekistan
+1489419,Colombia vs Portugal,2026-06-27 23:30:00+00:00,Group Stage - 3,Colombia,Portugal
 1489418,Algeria vs Austria,2026-06-28 02:00:00+00:00,Group Stage - 3,Algeria,Austria
 1489421,Jordan vs Argentina,2026-06-28 02:00:00+00:00,Group Stage - 3,Jordan,Argentina
 1561329,South Africa vs Canada,2026-06-28 19:00:00+00:00,Round of 32,South Africa,Canada
@@ -93,3 +93,4 @@ fixture_id,label,date,round,home_team,away_team
 1570714,Mexico vs England,2026-07-06 01:00:00+00:00,Round of 16,Mexico,England
 1576756,Portugal vs Spain,2026-07-06 19:00:00+00:00,Round of 16,Portugal,Spain
 1570715,USA vs Belgium,2026-07-07 00:00:00+00:00,Round of 16,USA,Belgium
+1576804,Argentina vs Egypt,2026-07-07 16:00:00+00:00,Round of 16,Argentina,Egypt
