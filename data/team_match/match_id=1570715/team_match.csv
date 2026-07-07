@@ -1,0 +1,3 @@
+fixture_id,date,team_id,team_name,opponent_id,is_home,goals_for,goals_against,outcome,possession_pct,passes_total,passes_accurate,passes_pct,shots_total,shots_on_target,shots_off_target,shots_blocked,shots_inside_box,shots_outside_box,fouls,corners,offsides,yellow_cards,red_cards,gk_saves,xg,is_complete
+1570715,2026-07-07 00:00:00+00:00,2384,USA,1,True,1,4,L,56.0,527.0,458.0,87.0,7.0,2.0,5.0,0.0,5.0,2.0,11.0,3.0,0.0,2.0,,3.0,0.67,True
+1570715,2026-07-07 00:00:00+00:00,1,Belgium,2384,False,4,1,W,44.0,410.0,333.0,81.0,15.0,7.0,4.0,4.0,10.0,5.0,9.0,5.0,1.0,0.0,,1.0,2.15,True

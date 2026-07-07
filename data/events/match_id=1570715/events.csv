@@ -1,0 +1,18 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1570715,9,,1,147859,C. De Ketelaere,2120.0,Goal,Normal Goal
+1570715,21,,1,162714,A. Onana,78.0,subst,Substitution 1
+1570715,31,,2384,162037,M. Tillman,,Goal,Normal Goal
+1570715,33,,1,147859,C. De Ketelaere,1946.0,Goal,Normal Goal
+1570715,35,,2384,415,W. McKennie,,Card,Yellow Card
+1570715,46,,2384,38735,S. Dest,161921.0,subst,Substitution 1
+1570715,57,,1,78,H. Vanaken,147859.0,Goal,Normal Goal
+1570715,59,,2384,17,C. Pulisic,201713.0,subst,Substitution 2
+1570715,67,,1,25458,D. Lukebakio,1422.0,subst,Substitution 2
+1570715,67,,1,147859,C. De Ketelaere,907.0,subst,Substitution 3
+1570715,69,,2384,162037,M. Tillman,,Card,Yellow Card
+1570715,72,,2384,1150,T. Adams,73868.0,subst,Substitution 3
+1570715,89,,1,1946,L. Trossard,1417.0,subst,Substitution 4
+1570715,89,,1,2120,N. Raskin,20.0,subst,Substitution 5
+1570715,90,2.0,2384,138835,F. Balogun,427.0,subst,Substitution 4
+1570715,90,2.0,2384,19549,A. Robinson,362400.0,subst,Substitution 5
+1570715,90,3.0,1,907,R. Lukaku,78.0,Goal,Normal Goal
