@@ -1,0 +1,27 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1576805,46,,15,264705,A. Jashari,957.0,subst,Substitution 1
+1576805,51,,15,1464,G. Xhaka,,Card,Yellow Card
+1576805,59,,15,2810,D. Zakaria,,Card,Yellow Card
+1576805,60,,8,47237,L. Suarez,,Card,Yellow Card
+1576805,66,,8,517,J. Rodriguez,6005.0,subst,Substitution 1
+1576805,66,,8,13708,J. Arias,13376.0,subst,Substitution 2
+1576805,71,,15,1631,R. Rodriguez,48489.0,subst,Substitution 2
+1576805,82,,8,47237,L. Suarez,47582.0,subst,Substitution 3
+1576805,82,,8,2490,J. Lerma,195104.0,subst,Substitution 4
+1576805,87,,15,421,B. Embolo,48497.0,subst,Substitution 3
+1576805,87,,15,2810,D. Zakaria,48378.0,subst,Substitution 4
+1576805,90,2.0,15,48648,D. Ndoye,48471.0,subst,Substitution 5
+1576805,95,,8,168,D. Sanchez,,Card,Yellow Card
+1576805,103,,15,163032,F. Rieder,123469.0,subst,Substitution 6
+1576805,105,,15,48489,M. Muheim,,Card,Yellow Card
+1576805,119,,8,1929,J. Lucumi,2484.0,subst,Substitution 5
+1576805,120,1.0,8,6005,J. Quintero,,Goal,Penalty
+1576805,120,1.0,15,1464,G. Xhaka,,Goal,Penalty
+1576805,120,2.0,8,168,D. Sanchez,,Goal,Missed Penalty
+1576805,120,2.0,15,123469,Z. Amdouni,,Goal,Penalty
+1576805,120,3.0,8,13376,J. Campaz,,Goal,Penalty
+1576805,120,3.0,15,5,M. Akanji,,Goal,Missed Penalty
+1576805,120,4.0,8,47582,C. Hernandez,,Goal,Missed Penalty
+1576805,120,4.0,15,48497,C. Itten,,Goal,Penalty
+1576805,120,5.0,8,2489,L. Diaz,,Goal,Penalty
+1576805,120,5.0,15,48471,R. Vargas,,Goal,Penalty
