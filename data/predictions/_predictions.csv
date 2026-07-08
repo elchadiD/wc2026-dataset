@@ -96,3 +96,4 @@ fixture_id,captured_at,home_team_id,home_team,away_team_id,away_team,pct_home,pc
 1578539,2026-07-05T09:19:18+00:00,2,France,31,Morocco,45,45,10,2.0,Double chance : France or draw,100%,87%
 1581037,2026-07-06T10:56:36+00:00,1090,Norway,10,England,10,45,45,10.0,Combo Winner : England and +1.5 goals,80%,87%
 1581821,2026-07-07T09:57:32+00:00,9,Spain,1,Belgium,45,45,10,9.0,Double chance : Spain or draw,87%,73%
+1582681,2026-07-08T08:41:39+00:00,26,Argentina,15,Switzerland,45,45,10,26.0,Double chance : Argentina or draw,100%,73%
