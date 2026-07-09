@@ -1,0 +1,14 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1578539,28,,2,278,K. Mbappe,278.0,Goal,Missed Penalty
+1578539,60,,2,278,K. Mbappe,343027.0,Goal,Normal Goal
+1578539,62,,31,438688,A. Bouaddi,74.0,subst,Substitution 1
+1578539,62,,31,340573,B. El Khannouss,36579.0,subst,Substitution 2
+1578539,63,,31,18814,I. Diop,,Card,Yellow Card
+1578539,66,,2,153,O. Dembele,278.0,Goal,Normal Goal
+1578539,71,,2,22147,M. Kone,336657.0,subst,Substitution 1
+1578539,74,,31,744,B. Diaz,369544.0,subst,Substitution 3
+1578539,74,,31,162451,A. Salah-Eddine,283252.0,subst,Substitution 4
+1578539,77,,2,278,K. Mbappe,25927.0,subst,Substitution 2
+1578539,77,,2,343027,D. Doue,161904.0,subst,Substitution 3
+1578539,85,,31,336659,C. Talbi,191289.0,subst,Substitution 5
+1578539,87,,2,1257,J. Kounde,161907.0,subst,Substitution 4
