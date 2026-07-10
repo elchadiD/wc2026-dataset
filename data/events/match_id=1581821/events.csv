@@ -1,0 +1,17 @@
+fixture_id,minute,minute_extra,team_id,player_id,player_name,assist_id,type,detail
+1581821,30,,9,328,F. Ruiz,,Goal,Normal Goal
+1581821,41,,1,147859,C. De Ketelaere,2920.0,Goal,Normal Goal
+1581821,43,,9,396623,P. Cubarsi,,Card,Yellow Card
+1581821,55,,9,182219,A. Baena,931.0,subst,Substitution 1
+1581821,55,,9,328,F. Ruiz,133609.0,subst,Substitution 2
+1581821,60,,1,1946,L. Trossard,20.0,subst,Substitution 1
+1581821,60,,1,78,H. Vanaken,907.0,subst,Substitution 2
+1581821,61,,1,162007,M. De Cuyper,375974.0,subst,Substitution 3
+1581821,71,,1,730,T. Courtois,162511.0,subst,Substitution 4
+1581821,79,,9,47323,M. Oyarzabal,183799.0,subst,Substitution 3
+1581821,85,,1,629,K. De Bruyne,,Card,Yellow Card
+1581821,86,,1,629,K. De Bruyne,1417.0,subst,Substitution 5
+1581821,86,,9,1323,D. Olmo,47311.0,subst,Substitution 4
+1581821,88,,9,47311,M. Merino,,Goal,Normal Goal
+1581821,90,3.0,9,622,A. Laporte,,Card,Yellow Card
+1581821,90,5.0,1,20,A. Witsel,,Card,Yellow Card
